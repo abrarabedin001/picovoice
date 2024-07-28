@@ -1,0 +1,4447 @@
+[
+  {
+    "word": "of",
+    "startSec": 0.3199999928474426,
+    "endSec": 0.47999998927116394,
+    "confidence": 0.6126818060874939,
+    "speakerTag": 1
+  },
+  {
+    "word": "course",
+    "startSec": 0.6399999856948853,
+    "endSec": 0.8960000276565552,
+    "confidence": 0.9771077632904053,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 1.0240000486373901,
+    "endSec": 1.1200000047683716,
+    "confidence": 0.9646727442741394,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 1.184000015258789,
+    "endSec": 1.215999960899353,
+    "confidence": 0.9825208783149719,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 1.2799999713897705,
+    "endSec": 1.3760000467300415,
+    "confidence": 0.9818230867385864,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 1.472000002861023,
+    "endSec": 1.472000002861023,
+    "confidence": 0.9725967645645142,
+    "speakerTag": 1
+  },
+  {
+    "word": "way",
+    "startSec": 1.5360000133514404,
+    "endSec": 1.600000023841858,
+    "confidence": 0.9531253576278687,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 1.6640000343322754,
+    "endSec": 1.7280000448226929,
+    "confidence": 0.9819825887680054,
+    "speakerTag": 1
+  },
+  {
+    "word": "server",
+    "startSec": 1.7920000553131104,
+    "endSec": 2.0160000324249268,
+    "confidence": 0.5863791108131409,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 2.111999988555908,
+    "endSec": 2.1760001182556152,
+    "confidence": 0.8151038885116577,
+    "speakerTag": 1
+  },
+  {
+    "word": "should",
+    "startSec": 2.2720000743865967,
+    "endSec": 2.4000000953674316,
+    "confidence": 0.9716886878013611,
+    "speakerTag": 1
+  },
+  {
+    "word": "use",
+    "startSec": 2.4639999866485596,
+    "endSec": 2.6559998989105225,
+    "confidence": 0.9590463638305664,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 2.815999984741211,
+    "endSec": 2.9119999408721924,
+    "confidence": 0.9711024165153503,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 3.007999897003174,
+    "endSec": 3.072000026702881,
+    "confidence": 0.9532017111778259,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 3.135999917984009,
+    "endSec": 3.135999917984009,
+    "confidence": 0.6876717805862427,
+    "speakerTag": 1
+  },
+  {
+    "word": "seem",
+    "startSec": 3.2960000038146973,
+    "endSec": 3.4240000247955322,
+    "confidence": 0.735728919506073,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 3.48799991607666,
+    "endSec": 3.552000045776367,
+    "confidence": 0.9742249846458435,
+    "speakerTag": 1
+  },
+  {
+    "word": "find",
+    "startSec": 4.191999912261963,
+    "endSec": 4.415999889373779,
+    "confidence": 0.9735115766525269,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 4.447999954223633,
+    "endSec": 4.51200008392334,
+    "confidence": 0.7368163466453552,
+    "speakerTag": 1
+  },
+  {
+    "word": "increasingly",
+    "startSec": 4.544000148773193,
+    "endSec": 5.056000232696533,
+    "confidence": 0.89296954870224,
+    "speakerTag": 1
+  },
+  {
+    "word": "harder",
+    "startSec": 5.1519999504089355,
+    "endSec": 5.4720001220703125,
+    "confidence": 0.7788144946098328,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 5.631999969482422,
+    "endSec": 5.728000164031982,
+    "confidence": 0.9825952053070068,
+    "speakerTag": 1
+  },
+  {
+    "word": "comprehend",
+    "startSec": 5.888000011444092,
+    "endSec": 7.136000156402588,
+    "confidence": 0.9676516652107239,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 7.23199987411499,
+    "endSec": 7.423999786376953,
+    "confidence": 0.9798964262008667,
+    "speakerTag": 1
+  },
+  {
+    "word": "wizards",
+    "startSec": 8.800000190734863,
+    "endSec": 9.215999603271484,
+    "confidence": 0.2660340666770935,
+    "speakerTag": 1
+  },
+  {
+    "word": "called",
+    "startSec": 9.407999992370605,
+    "endSec": 9.727999687194824,
+    "confidence": 0.9191169142723083,
+    "speakerTag": 1
+  },
+  {
+    "word": "real",
+    "startSec": 9.824000358581543,
+    "endSec": 10.015999794006348,
+    "confidence": 0.5852271318435669,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 10.112000465393066,
+    "endSec": 10.239999771118164,
+    "confidence": 0.004385583568364382,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 10.847999572753906,
+    "endSec": 11.008000373840332,
+    "confidence": 0.7830784320831299,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 11.071999549865723,
+    "endSec": 11.168000221252441,
+    "confidence": 0.6889908313751221,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 11.232000350952148,
+    "endSec": 11.295999526977539,
+    "confidence": 0.9800517559051514,
+    "speakerTag": 1
+  },
+  {
+    "word": "short",
+    "startSec": 11.359999656677246,
+    "endSec": 11.616000175476074,
+    "confidence": 0.8505507707595825,
+    "speakerTag": 1
+  },
+  {
+    "word": "time",
+    "startSec": 11.744000434875488,
+    "endSec": 11.968000411987305,
+    "confidence": 0.9803786277770996,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 12.064000129699707,
+    "endSec": 12.128000259399414,
+    "confidence": 0.9671505093574524,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 12.223999977111816,
+    "endSec": 12.383999824523926,
+    "confidence": 0.980138897895813,
+    "speakerTag": 1
+  },
+  {
+    "word": "known",
+    "startSec": 12.928000450134277,
+    "endSec": 13.119999885559082,
+    "confidence": 0.9616007804870605,
+    "speakerTag": 1
+  },
+  {
+    "word": "each",
+    "startSec": 13.184000015258789,
+    "endSec": 13.279999732971191,
+    "confidence": 0.9646727442741394,
+    "speakerTag": 1
+  },
+  {
+    "word": "other",
+    "startSec": 13.343999862670898,
+    "endSec": 13.472000122070312,
+    "confidence": 0.9903618097305298,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 13.567999839782715,
+    "endSec": 13.631999969482422,
+    "confidence": 0.9411677122116089,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 15.48799991607666,
+    "endSec": 15.552000045776367,
+    "confidence": 0.495730996131897,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 15.680000305175781,
+    "endSec": 15.935999870300293,
+    "confidence": 0.9591398239135742,
+    "speakerTag": 1
+  },
+  {
+    "word": "ended",
+    "startSec": 16.959999084472656,
+    "endSec": 17.280000686645508,
+    "confidence": 0.84052973985672,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 17.375999450683594,
+    "endSec": 17.503999710083008,
+    "confidence": 0.9638859629631042,
+    "speakerTag": 1
+  },
+  {
+    "word": "fighting",
+    "startSec": 18.43199920654297,
+    "endSec": 18.784000396728516,
+    "confidence": 0.9292532801628113,
+    "speakerTag": 1
+  },
+  {
+    "word": "for",
+    "startSec": 18.91200065612793,
+    "endSec": 19.007999420166016,
+    "confidence": 0.8787979483604431,
+    "speakerTag": 1
+  },
+  {
+    "word": "our",
+    "startSec": 19.104000091552734,
+    "endSec": 19.200000762939453,
+    "confidence": 0.936631977558136,
+    "speakerTag": 1
+  },
+  {
+    "word": "life",
+    "startSec": 19.29599952697754,
+    "endSec": 19.583999633789062,
+    "confidence": 0.8693480491638184,
+    "speakerTag": 1
+  },
+  {
+    "word": "together",
+    "startSec": 20.672000885009766,
+    "endSec": 20.992000579833984,
+    "confidence": 0.9904335737228394,
+    "speakerTag": 1
+  },
+  {
+    "word": "twice",
+    "startSec": 21.152000427246094,
+    "endSec": 21.503999710083008,
+    "confidence": 0.818612813949585,
+    "speakerTag": 1
+  },
+  {
+    "word": "well",
+    "startSec": 21.600000381469727,
+    "endSec": 21.72800064086914,
+    "confidence": 0.8384222388267517,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 21.79199981689453,
+    "endSec": 21.920000076293945,
+    "confidence": 0.6782448291778564,
+    "speakerTag": 1
+  },
+  {
+    "word": "couldn't",
+    "startSec": 21.95199966430664,
+    "endSec": 22.20800018310547,
+    "confidence": 0.9129716157913208,
+    "speakerTag": 1
+  },
+  {
+    "word": "simply",
+    "startSec": 22.304000854492188,
+    "endSec": 22.6560001373291,
+    "confidence": 0.7128827571868896,
+    "speakerTag": 1
+  },
+  {
+    "word": "this",
+    "startSec": 22.719999313354492,
+    "endSec": 22.8799991607666,
+    "confidence": 0.8860222697257996,
+    "speakerTag": 1
+  },
+  {
+    "word": "regard",
+    "startSec": 22.944000244140625,
+    "endSec": 23.263999938964844,
+    "confidence": 0.9329378604888916,
+    "speakerTag": 1
+  },
+  {
+    "word": "trailless",
+    "startSec": 23.29599952697754,
+    "endSec": 23.711999893188477,
+    "confidence": 0.21827930212020874,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 24.224000930786133,
+    "endSec": 24.288000106811523,
+    "confidence": 0.7836641669273376,
+    "speakerTag": 1
+  },
+  {
+    "word": "she",
+    "startSec": 24.31999969482422,
+    "endSec": 24.416000366210938,
+    "confidence": 0.892396092414856,
+    "speakerTag": 1
+  },
+  {
+    "word": "seems",
+    "startSec": 24.511999130249023,
+    "endSec": 24.799999237060547,
+    "confidence": 0.48926934599876404,
+    "speakerTag": 1
+  },
+  {
+    "word": "like",
+    "startSec": 24.895999908447266,
+    "endSec": 25.055999755859375,
+    "confidence": 0.5024787783622742,
+    "speakerTag": 1
+  },
+  {
+    "word": "clearly",
+    "startSec": 25.08799934387207,
+    "endSec": 25.440000534057617,
+    "confidence": 0.11493755131959915,
+    "speakerTag": 1
+  },
+  {
+    "word": "suspicious",
+    "startSec": 25.503999710083008,
+    "endSec": 26.11199951171875,
+    "confidence": 0.875104546546936,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 26.176000595092773,
+    "endSec": 26.27199935913086,
+    "confidence": 0.9814056754112244,
+    "speakerTag": 1
+  },
+  {
+    "word": "her",
+    "startSec": 26.368000030517578,
+    "endSec": 26.464000701904297,
+    "confidence": 0.8958461284637451,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 30.304000854492188,
+    "endSec": 30.368000030517578,
+    "confidence": 0.8900039792060852,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 30.43199920654297,
+    "endSec": 30.559999465942383,
+    "confidence": 0.9869529008865356,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 30.624000549316406,
+    "endSec": 30.624000549316406,
+    "confidence": 0.9589072465896606,
+    "speakerTag": 1
+  },
+  {
+    "word": "three-way",
+    "startSec": 30.687999725341797,
+    "endSec": 31.007999420166016,
+    "confidence": 0.19933798909187317,
+    "speakerTag": 1
+  },
+  {
+    "word": "trip",
+    "startSec": 31.167999267578125,
+    "endSec": 31.392000198364258,
+    "confidence": 0.8657458424568176,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 31.488000869750977,
+    "endSec": 31.583999633789062,
+    "confidence": 0.9822745323181152,
+    "speakerTag": 1
+  },
+  {
+    "word": "Alice",
+    "startSec": 31.90399932861328,
+    "endSec": 32.12799835205078,
+    "confidence": 0.6082683205604553,
+    "speakerTag": 1
+  },
+  {
+    "word": "mine",
+    "startSec": 32.2239990234375,
+    "endSec": 32.41600036621094,
+    "confidence": 0.40622735023498535,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 32.512001037597656,
+    "endSec": 32.57600021362305,
+    "confidence": 0.950865626335144,
+    "speakerTag": 1
+  },
+  {
+    "word": "would",
+    "startSec": 32.672000885009766,
+    "endSec": 32.832000732421875,
+    "confidence": 0.1683843582868576,
+    "speakerTag": 1
+  },
+  {
+    "word": "arrive",
+    "startSec": 33.02399826049805,
+    "endSec": 33.24800109863281,
+    "confidence": 0.8786308169364929,
+    "speakerTag": 1
+  },
+  {
+    "word": "there",
+    "startSec": 33.34400177001953,
+    "endSec": 33.5359992980957,
+    "confidence": 0.953969419002533,
+    "speakerTag": 1
+  },
+  {
+    "word": "after",
+    "startSec": 33.72800064086914,
+    "endSec": 33.95199966430664,
+    "confidence": 0.8917914032936096,
+    "speakerTag": 1
+  },
+  {
+    "word": "approximately",
+    "startSec": 33.98400115966797,
+    "endSec": 34.59199905395508,
+    "confidence": 0.9195213913917542,
+    "speakerTag": 1
+  },
+  {
+    "word": "two",
+    "startSec": 34.624000549316406,
+    "endSec": 34.6879997253418,
+    "confidence": 0.976008415222168,
+    "speakerTag": 1
+  },
+  {
+    "word": "more",
+    "startSec": 34.816001892089844,
+    "endSec": 34.97600173950195,
+    "confidence": 0.9234426021575928,
+    "speakerTag": 1
+  },
+  {
+    "word": "days",
+    "startSec": 35.071998596191406,
+    "endSec": 35.29600143432617,
+    "confidence": 0.8960637450218201,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 35.36000061035156,
+    "endSec": 35.42399978637695,
+    "confidence": 0.7006025910377502,
+    "speakerTag": 1
+  },
+  {
+    "word": "worked",
+    "startSec": 35.52000045776367,
+    "endSec": 35.7760009765625,
+    "confidence": 0.860667884349823,
+    "speakerTag": 1
+  },
+  {
+    "word": "all",
+    "startSec": 35.87200164794922,
+    "endSec": 35.96799850463867,
+    "confidence": 0.9500240683555603,
+    "speakerTag": 1
+  },
+  {
+    "word": "this",
+    "startSec": 36.47999954223633,
+    "endSec": 36.736000061035156,
+    "confidence": 0.9567638635635376,
+    "speakerTag": 1
+  },
+  {
+    "word": "out",
+    "startSec": 36.832000732421875,
+    "endSec": 36.992000579833984,
+    "confidence": 0.8456856608390808,
+    "speakerTag": 1
+  },
+  {
+    "word": "burned",
+    "startSec": 37.0880012512207,
+    "endSec": 37.3120002746582,
+    "confidence": 0.5756962299346924,
+    "speakerTag": 1
+  },
+  {
+    "word": "nothing",
+    "startSec": 37.34400177001953,
+    "endSec": 37.599998474121094,
+    "confidence": 0.861287534236908,
+    "speakerTag": 1
+  },
+  {
+    "word": "really",
+    "startSec": 37.69599914550781,
+    "endSec": 37.85599899291992,
+    "confidence": 0.8838186264038086,
+    "speakerTag": 1
+  },
+  {
+    "word": "unexpected",
+    "startSec": 37.91999816894531,
+    "endSec": 38.43199920654297,
+    "confidence": 0.9612128138542175,
+    "speakerTag": 1
+  },
+  {
+    "word": "happened",
+    "startSec": 38.49599838256836,
+    "endSec": 38.816001892089844,
+    "confidence": 0.9658756852149963,
+    "speakerTag": 1
+  },
+  {
+    "word": "during",
+    "startSec": 38.847999572753906,
+    "endSec": 39.040000915527344,
+    "confidence": 0.6974917054176331,
+    "speakerTag": 1
+  },
+  {
+    "word": "our",
+    "startSec": 39.13600158691406,
+    "endSec": 39.20000076293945,
+    "confidence": 0.7131029367446899,
+    "speakerTag": 1
+  },
+  {
+    "word": "march",
+    "startSec": 39.263999938964844,
+    "endSec": 39.487998962402344,
+    "confidence": 0.4887183904647827,
+    "speakerTag": 1
+  },
+  {
+    "word": "more",
+    "startSec": 39.61600112915039,
+    "endSec": 39.71200180053711,
+    "confidence": 0.26136866211891174,
+    "speakerTag": 1
+  },
+  {
+    "word": "zombies",
+    "startSec": 39.7760009765625,
+    "endSec": 40.09600067138672,
+    "confidence": 0.8648471832275391,
+    "speakerTag": 1
+  },
+  {
+    "word": "might",
+    "startSec": 40.19200134277344,
+    "endSec": 40.31999969482422,
+    "confidence": 0.9248576760292053,
+    "speakerTag": 1
+  },
+  {
+    "word": "come",
+    "startSec": 40.38399887084961,
+    "endSec": 40.512001037597656,
+    "confidence": 0.8632307648658752,
+    "speakerTag": 1
+  },
+  {
+    "word": "out",
+    "startSec": 40.57600021362305,
+    "endSec": 40.672000885009766,
+    "confidence": 0.9725742936134338,
+    "speakerTag": 1
+  },
+  {
+    "word": "again",
+    "startSec": 40.736000061035156,
+    "endSec": 40.959999084472656,
+    "confidence": 0.9759293794631958,
+    "speakerTag": 1
+  },
+  {
+    "word": "like",
+    "startSec": 41.055999755859375,
+    "endSec": 41.183998107910156,
+    "confidence": 0.9400978684425354,
+    "speakerTag": 1
+  },
+  {
+    "word": "yesterday",
+    "startSec": 41.24800109863281,
+    "endSec": 41.56800079345703,
+    "confidence": 0.9432315230369568,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 41.63199996948242,
+    "endSec": 41.69599914550781,
+    "confidence": 0.6646162271499634,
+    "speakerTag": 1
+  },
+  {
+    "word": "should",
+    "startSec": 41.7599983215332,
+    "endSec": 41.88800048828125,
+    "confidence": 0.9741618633270264,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 41.91999816894531,
+    "endSec": 42.01599884033203,
+    "confidence": 0.9767557382583618,
+    "speakerTag": 1
+  },
+  {
+    "word": "heard",
+    "startSec": 42.04800033569336,
+    "endSec": 42.14400100708008,
+    "confidence": 0.6937377452850342,
+    "speakerTag": 1
+  },
+  {
+    "word": "camping",
+    "startSec": 42.20800018310547,
+    "endSec": 42.52799987792969,
+    "confidence": 0.8649216890335083,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 43.231998443603516,
+    "endSec": 43.231998443603516,
+    "confidence": 0.8706898093223572,
+    "speakerTag": 1
+  },
+  {
+    "word": "camping",
+    "startSec": 43.45600128173828,
+    "endSec": 43.84000015258789,
+    "confidence": 0.7658975124359131,
+    "speakerTag": 1
+  },
+  {
+    "word": "obliquely",
+    "startSec": 43.96799850463867,
+    "endSec": 44.31999969482422,
+    "confidence": 0.08202505111694336,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 44.35200119018555,
+    "endSec": 44.41600036621094,
+    "confidence": 0.9360414743423462,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 44.448001861572266,
+    "endSec": 44.512001037597656,
+    "confidence": 0.8587563633918762,
+    "speakerTag": 1
+  },
+  {
+    "word": "openness",
+    "startSec": 44.54399871826172,
+    "endSec": 44.992000579833984,
+    "confidence": 0.43472740054130554,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 45.055999755859375,
+    "endSec": 45.119998931884766,
+    "confidence": 0.7989254593849182,
+    "speakerTag": 1
+  },
+  {
+    "word": "agreed",
+    "startSec": 45.152000427246094,
+    "endSec": 45.40800094604492,
+    "confidence": 0.9144920110702515,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 45.439998626708984,
+    "endSec": 45.5359992980957,
+    "confidence": 0.8106057643890381,
+    "speakerTag": 1
+  },
+  {
+    "word": "this",
+    "startSec": 45.599998474121094,
+    "endSec": 45.7599983215332,
+    "confidence": 0.6051908135414124,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 45.82400131225586,
+    "endSec": 45.91999816894531,
+    "confidence": 0.6372955441474915,
+    "speakerTag": 1
+  },
+  {
+    "word": "me",
+    "startSec": 45.98400115966797,
+    "endSec": 46.04800033569336,
+    "confidence": 0.21194565296173096,
+    "speakerTag": 1
+  },
+  {
+    "word": "there",
+    "startSec": 46.14400100708008,
+    "endSec": 46.27199935913086,
+    "confidence": 0.3650047481060028,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 46.30400085449219,
+    "endSec": 46.400001525878906,
+    "confidence": 0.985610842704773,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 46.4640007019043,
+    "endSec": 46.49599838256836,
+    "confidence": 0.8578336834907532,
+    "speakerTag": 1
+  },
+  {
+    "word": "Zambia",
+    "startSec": 46.560001373291016,
+    "endSec": 46.847999572753906,
+    "confidence": 0.4557233452796936,
+    "speakerTag": 1
+  },
+  {
+    "word": "they",
+    "startSec": 47.071998596191406,
+    "endSec": 47.104000091552734,
+    "confidence": 0.39301300048828125,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 47.20000076293945,
+    "endSec": 47.29600143432617,
+    "confidence": 0.8354974389076233,
+    "speakerTag": 1
+  },
+  {
+    "word": "millipede",
+    "startSec": 47.391998291015625,
+    "endSec": 47.84000015258789,
+    "confidence": 0.03266487643122673,
+    "speakerTag": 1
+  },
+  {
+    "word": "my",
+    "startSec": 47.90399932861328,
+    "endSec": 47.96799850463867,
+    "confidence": 0.41070273518562317,
+    "speakerTag": 1
+  },
+  {
+    "word": "obligations",
+    "startSec": 48.09600067138672,
+    "endSec": 48.54399871826172,
+    "confidence": 0.5930648446083069,
+    "speakerTag": 1
+  },
+  {
+    "word": "behind",
+    "startSec": 48.57600021362305,
+    "endSec": 48.895999908447266,
+    "confidence": 0.7770768404006958,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 49.98400115966797,
+    "endSec": 50.11199951171875,
+    "confidence": 0.633794903755188,
+    "speakerTag": 1
+  },
+  {
+    "word": "more",
+    "startSec": 50.20800018310547,
+    "endSec": 50.30400085449219,
+    "confidence": 0.9541981816291809,
+    "speakerTag": 1
+  },
+  {
+    "word": "than",
+    "startSec": 50.560001373291016,
+    "endSec": 50.75199890136719,
+    "confidence": 0.90032559633255,
+    "speakerTag": 1
+  },
+  {
+    "word": "meaningless",
+    "startSec": 50.880001068115234,
+    "endSec": 51.263999938964844,
+    "confidence": 0.8398000597953796,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 51.29600143432617,
+    "endSec": 51.36000061035156,
+    "confidence": 0.9173558950424194,
+    "speakerTag": 1
+  },
+  {
+    "word": "begin",
+    "startSec": 51.45600128173828,
+    "endSec": 51.74399948120117,
+    "confidence": 0.8072224259376526,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 51.84000015258789,
+    "endSec": 51.96799850463867,
+    "confidence": 0.9595019817352295,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 52.03200149536133,
+    "endSec": 52.03200149536133,
+    "confidence": 0.9601240754127502,
+    "speakerTag": 1
+  },
+  {
+    "word": "wish",
+    "startSec": 52.12799835205078,
+    "endSec": 52.25600051879883,
+    "confidence": 0.7070839405059814,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 52.31999969482422,
+    "endSec": 52.35200119018555,
+    "confidence": 0.9556580781936646,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 52.448001861572266,
+    "endSec": 52.54399871826172,
+    "confidence": 0.9887738227844238,
+    "speakerTag": 1
+  },
+  {
+    "word": "come",
+    "startSec": 52.63999938964844,
+    "endSec": 52.768001556396484,
+    "confidence": 0.912936270236969,
+    "speakerTag": 1
+  },
+  {
+    "word": "somewhere",
+    "startSec": 52.832000732421875,
+    "endSec": 53.119998931884766,
+    "confidence": 0.78713458776474,
+    "speakerTag": 1
+  },
+  {
+    "word": "close",
+    "startSec": 53.183998107910156,
+    "endSec": 53.3120002746582,
+    "confidence": 0.49709421396255493,
+    "speakerTag": 1
+  },
+  {
+    "word": "strictly",
+    "startSec": 53.34400177001953,
+    "endSec": 53.63199996948242,
+    "confidence": 0.12643557786941528,
+    "speakerTag": 1
+  },
+  {
+    "word": "for",
+    "startSec": 53.69599914550781,
+    "endSec": 53.79199981689453,
+    "confidence": 0.401130735874176,
+    "speakerTag": 1
+  },
+  {
+    "word": "zombies",
+    "startSec": 53.88800048828125,
+    "endSec": 54.14400100708008,
+    "confidence": 0.16643300652503967,
+    "speakerTag": 1
+  },
+  {
+    "word": "couldn't",
+    "startSec": 54.17599868774414,
+    "endSec": 54.36800003051758,
+    "confidence": 0.17521953582763672,
+    "speakerTag": 1
+  },
+  {
+    "word": "climb",
+    "startSec": 54.4640007019043,
+    "endSec": 54.624000549316406,
+    "confidence": 0.7756808996200562,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 54.75199890136719,
+    "endSec": 54.847999572753906,
+    "confidence": 0.08363063633441925,
+    "speakerTag": 1
+  },
+  {
+    "word": "although",
+    "startSec": 54.944000244140625,
+    "endSec": 55.13600158691406,
+    "confidence": 0.45921534299850464,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 55.167999267578125,
+    "endSec": 55.167999267578125,
+    "confidence": 0.4533407986164093,
+    "speakerTag": 1
+  },
+  {
+    "word": "see",
+    "startSec": 55.29600143432617,
+    "endSec": 55.42399978637695,
+    "confidence": 0.7312924861907959,
+    "speakerTag": 1
+  },
+  {
+    "word": "anything",
+    "startSec": 55.80799865722656,
+    "endSec": 56.09600067138672,
+    "confidence": 0.7703049182891846,
+    "speakerTag": 1
+  },
+  {
+    "word": "like",
+    "startSec": 56.15999984741211,
+    "endSec": 56.28799819946289,
+    "confidence": 0.8410146236419678,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 56.31999969482422,
+    "endSec": 56.35200119018555,
+    "confidence": 0.9744707942008972,
+    "speakerTag": 1
+  },
+  {
+    "word": "pool",
+    "startSec": 56.448001861572266,
+    "endSec": 56.57600021362305,
+    "confidence": 0.766793966293335,
+    "speakerTag": 1
+  },
+  {
+    "word": "but",
+    "startSec": 56.63999938964844,
+    "endSec": 56.768001556396484,
+    "confidence": 0.4757827818393707,
+    "speakerTag": 1
+  },
+  {
+    "word": "then",
+    "startSec": 56.79999923706055,
+    "endSec": 56.895999908447266,
+    "confidence": 0.8115898966789246,
+    "speakerTag": 1
+  },
+  {
+    "word": "maybe",
+    "startSec": 56.959999084472656,
+    "endSec": 57.152000427246094,
+    "confidence": 0.8921065330505371,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 57.183998107910156,
+    "endSec": 57.215999603271484,
+    "confidence": 0.44581127166748047,
+    "speakerTag": 1
+  },
+  {
+    "word": "big",
+    "startSec": 57.279998779296875,
+    "endSec": 57.40800094604492,
+    "confidence": 0.9582647085189819,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 57.47200012207031,
+    "endSec": 57.56800079345703,
+    "confidence": 0.9576913118362427,
+    "speakerTag": 1
+  },
+  {
+    "word": "while",
+    "startSec": 57.66400146484375,
+    "endSec": 57.79199981689453,
+    "confidence": 0.9091880321502686,
+    "speakerTag": 1
+  },
+  {
+    "word": "at",
+    "startSec": 57.85599899291992,
+    "endSec": 57.95199966430664,
+    "confidence": 0.9253201484680176,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 57.98400115966797,
+    "endSec": 58.04800033569336,
+    "confidence": 0.9760040044784546,
+    "speakerTag": 1
+  },
+  {
+    "word": "big",
+    "startSec": 58.30400085449219,
+    "endSec": 58.43199920654297,
+    "confidence": 0.8656473755836487,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 58.49599838256836,
+    "endSec": 58.59199905395508,
+    "confidence": 0.4763110876083374,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 58.6879997253418,
+    "endSec": 58.75199890136719,
+    "confidence": 0.2205481231212616,
+    "speakerTag": 1
+  },
+  {
+    "word": "worship",
+    "startSec": 58.880001068115234,
+    "endSec": 59.263999938964844,
+    "confidence": 0.20349127054214478,
+    "speakerTag": 1
+  },
+  {
+    "word": "not",
+    "startSec": 60.2239990234375,
+    "endSec": 60.35200119018555,
+    "confidence": 0.0242161825299263,
+    "speakerTag": 1
+  },
+  {
+    "word": "be",
+    "startSec": 60.41600036621094,
+    "endSec": 60.47999954223633,
+    "confidence": 0.7565222382545471,
+    "speakerTag": 1
+  },
+  {
+    "word": "able",
+    "startSec": 60.512001037597656,
+    "endSec": 60.63999938964844,
+    "confidence": 0.9850931763648987,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 60.672000885009766,
+    "endSec": 60.736000061035156,
+    "confidence": 0.9734816551208496,
+    "speakerTag": 1
+  },
+  {
+    "word": "sleep",
+    "startSec": 60.768001556396484,
+    "endSec": 60.959999084472656,
+    "confidence": 0.749412477016449,
+    "speakerTag": 1
+  },
+  {
+    "word": "properly",
+    "startSec": 60.992000579833984,
+    "endSec": 61.279998779296875,
+    "confidence": 0.9049946665763855,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 61.40800094604492,
+    "endSec": 61.439998626708984,
+    "confidence": 0.8138613104820251,
+    "speakerTag": 1
+  },
+  {
+    "word": "might",
+    "startSec": 61.5359992980957,
+    "endSec": 61.69599914550781,
+    "confidence": 0.5945109724998474,
+    "speakerTag": 1
+  },
+  {
+    "word": "fall",
+    "startSec": 61.7599983215332,
+    "endSec": 61.91999816894531,
+    "confidence": 0.9504067897796631,
+    "speakerTag": 1
+  },
+  {
+    "word": "off",
+    "startSec": 62.01599884033203,
+    "endSec": 62.14400100708008,
+    "confidence": 0.9525086283683777,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 62.2400016784668,
+    "endSec": 62.30400085449219,
+    "confidence": 0.944495439529419,
+    "speakerTag": 1
+  },
+  {
+    "word": "he",
+    "startSec": 62.36800003051758,
+    "endSec": 62.400001525878906,
+    "confidence": 0.4955247640609741,
+    "speakerTag": 1
+  },
+  {
+    "word": "fell",
+    "startSec": 63.071998596191406,
+    "endSec": 63.231998443603516,
+    "confidence": 0.9391847848892212,
+    "speakerTag": 1
+  },
+  {
+    "word": "asleep",
+    "startSec": 63.29600143432617,
+    "endSec": 63.58399963378906,
+    "confidence": 0.9416172504425049,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 63.64799880981445,
+    "endSec": 63.68000030517578,
+    "confidence": 0.9753556847572327,
+    "speakerTag": 1
+  },
+  {
+    "word": "top",
+    "startSec": 63.7760009765625,
+    "endSec": 63.90399932861328,
+    "confidence": 0.9586135745048523,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 64.03199768066406,
+    "endSec": 64.09600067138672,
+    "confidence": 0.9879578948020935,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 64.19200134277344,
+    "endSec": 64.25599670410156,
+    "confidence": 0.9666745066642761,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 64.38400268554688,
+    "endSec": 64.51200103759766,
+    "confidence": 0.9187642335891724,
+    "speakerTag": 1
+  },
+  {
+    "word": "when",
+    "startSec": 65.02400207519531,
+    "endSec": 65.12000274658203,
+    "confidence": 0.11345616728067398,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 65.1520004272461,
+    "endSec": 65.21600341796875,
+    "confidence": 0.4141084551811218,
+    "speakerTag": 1
+  },
+  {
+    "word": "press",
+    "startSec": 65.27999877929688,
+    "endSec": 65.44000244140625,
+    "confidence": 0.4496926963329315,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 65.50399780273438,
+    "endSec": 65.53600311279297,
+    "confidence": 0.9825664758682251,
+    "speakerTag": 1
+  },
+  {
+    "word": "place",
+    "startSec": 65.63200378417969,
+    "endSec": 65.85600280761719,
+    "confidence": 0.8947597742080688,
+    "speakerTag": 1
+  },
+  {
+    "word": "resting",
+    "startSec": 65.98400115966797,
+    "endSec": 66.33599853515625,
+    "confidence": 0.753891110420227,
+    "speakerTag": 1
+  },
+  {
+    "word": "place",
+    "startSec": 66.4000015258789,
+    "endSec": 66.55999755859375,
+    "confidence": 0.9709002375602722,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 66.65599822998047,
+    "endSec": 66.68800354003906,
+    "confidence": 0.9492624998092651,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 66.75199890136719,
+    "endSec": 66.87999725341797,
+    "confidence": 0.9739382266998291,
+    "speakerTag": 1
+  },
+  {
+    "word": "choose",
+    "startSec": 66.94400024414062,
+    "endSec": 67.13600158691406,
+    "confidence": 0.939164936542511,
+    "speakerTag": 1
+  },
+  {
+    "word": "at",
+    "startSec": 67.19999694824219,
+    "endSec": 67.2959976196289,
+    "confidence": 0.5822706818580627,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 67.3280029296875,
+    "endSec": 67.36000061035156,
+    "confidence": 0.9761836528778076,
+    "speakerTag": 1
+  },
+  {
+    "word": "moment",
+    "startSec": 67.48799896240234,
+    "endSec": 67.74400329589844,
+    "confidence": 0.9865614771842957,
+    "speakerTag": 1
+  },
+  {
+    "word": "zombies",
+    "startSec": 67.87200164794922,
+    "endSec": 68.19200134277344,
+    "confidence": 0.33498290181159973,
+    "speakerTag": 1
+  },
+  {
+    "word": "couldn't",
+    "startSec": 68.2239990234375,
+    "endSec": 68.51200103759766,
+    "confidence": 0.7291977405548096,
+    "speakerTag": 1
+  },
+  {
+    "word": "be",
+    "startSec": 68.54399871826172,
+    "endSec": 68.60800170898438,
+    "confidence": 0.9520379304885864,
+    "speakerTag": 1
+  },
+  {
+    "word": "able",
+    "startSec": 68.63999938964844,
+    "endSec": 68.80000305175781,
+    "confidence": 0.978257954120636,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 68.86399841308594,
+    "endSec": 68.9280014038086,
+    "confidence": 0.9827232360839844,
+    "speakerTag": 1
+  },
+  {
+    "word": "get",
+    "startSec": 68.99199676513672,
+    "endSec": 69.1520004272461,
+    "confidence": 0.9802077412605286,
+    "speakerTag": 1
+  },
+  {
+    "word": "first",
+    "startSec": 69.72799682617188,
+    "endSec": 69.98400115966797,
+    "confidence": 0.8066258430480957,
+    "speakerTag": 1
+  },
+  {
+    "word": "even",
+    "startSec": 70.0479965209961,
+    "endSec": 70.20800018310547,
+    "confidence": 0.9514040946960449,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 70.27200317382812,
+    "endSec": 70.33599853515625,
+    "confidence": 0.9763396978378296,
+    "speakerTag": 1
+  },
+  {
+    "word": "they",
+    "startSec": 70.4000015258789,
+    "endSec": 70.43199920654297,
+    "confidence": 0.9785608053207397,
+    "speakerTag": 1
+  },
+  {
+    "word": "appeared",
+    "startSec": 70.52799987792969,
+    "endSec": 70.81600189208984,
+    "confidence": 0.9310801029205322,
+    "speakerTag": 1
+  },
+  {
+    "word": "again",
+    "startSec": 70.8479995727539,
+    "endSec": 71.0719985961914,
+    "confidence": 0.966540515422821,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 72.4800033569336,
+    "endSec": 72.54399871826172,
+    "confidence": 0.58011394739151,
+    "speakerTag": 1
+  },
+  {
+    "word": "work",
+    "startSec": 72.63999938964844,
+    "endSec": 72.80000305175781,
+    "confidence": 0.6971290707588196,
+    "speakerTag": 1
+  },
+  {
+    "word": "until",
+    "startSec": 72.89600372314453,
+    "endSec": 73.12000274658203,
+    "confidence": 0.8140661120414734,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 73.1520004272461,
+    "endSec": 73.21600341796875,
+    "confidence": 0.9739437699317932,
+    "speakerTag": 1
+  },
+  {
+    "word": "sun",
+    "startSec": 73.27999877929688,
+    "endSec": 73.40799713134766,
+    "confidence": 0.9645652770996094,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 73.47200012207031,
+    "endSec": 73.5999984741211,
+    "confidence": 0.9607784748077393,
+    "speakerTag": 1
+  },
+  {
+    "word": "about",
+    "startSec": 73.66400146484375,
+    "endSec": 73.85600280761719,
+    "confidence": 0.9221093654632568,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 73.88800048828125,
+    "endSec": 73.91999816894531,
+    "confidence": 0.9520736932754517,
+    "speakerTag": 1
+  },
+  {
+    "word": "set",
+    "startSec": 73.98400115966797,
+    "endSec": 74.14399719238281,
+    "confidence": 0.7026851773262024,
+    "speakerTag": 1
+  },
+  {
+    "word": "so",
+    "startSec": 74.55999755859375,
+    "endSec": 74.6240005493164,
+    "confidence": 0.8609773516654968,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 74.75199890136719,
+    "endSec": 74.97599792480469,
+    "confidence": 0.9618251323699951,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 75.19999694824219,
+    "endSec": 75.2959976196289,
+    "confidence": 0.9718838930130005,
+    "speakerTag": 1
+  },
+  {
+    "word": "found",
+    "startSec": 75.552001953125,
+    "endSec": 75.80799865722656,
+    "confidence": 0.9678677916526794,
+    "speakerTag": 1
+  },
+  {
+    "word": "an",
+    "startSec": 75.83999633789062,
+    "endSec": 75.90399932861328,
+    "confidence": 0.9061669707298279,
+    "speakerTag": 1
+  },
+  {
+    "word": "appropriate",
+    "startSec": 75.96800231933594,
+    "endSec": 76.38400268554688,
+    "confidence": 0.9471602439880371,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 76.41600036621094,
+    "endSec": 76.51200103759766,
+    "confidence": 0.8673985600471497,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 76.57599639892578,
+    "endSec": 76.63999938964844,
+    "confidence": 0.665265679359436,
+    "speakerTag": 1
+  },
+  {
+    "word": "climb",
+    "startSec": 76.7040023803711,
+    "endSec": 76.89600372314453,
+    "confidence": 0.671170175075531,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 77.02400207519531,
+    "endSec": 77.12000274658203,
+    "confidence": 0.6908618211746216,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 77.18399810791016,
+    "endSec": 77.27999877929688,
+    "confidence": 0.9352924227714539,
+    "speakerTag": 1
+  },
+  {
+    "word": "sleepers",
+    "startSec": 77.31199645996094,
+    "endSec": 77.88800048828125,
+    "confidence": 0.2607664167881012,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 77.98400115966797,
+    "endSec": 78.08000183105469,
+    "confidence": 0.740999162197113,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 78.20800018310547,
+    "endSec": 78.27200317382812,
+    "confidence": 0.9835819005966187,
+    "speakerTag": 1
+  },
+  {
+    "word": "theme",
+    "startSec": 78.49600219726562,
+    "endSec": 78.68800354003906,
+    "confidence": 0.8458783030509949,
+    "speakerTag": 1
+  },
+  {
+    "word": "quick",
+    "startSec": 78.78399658203125,
+    "endSec": 78.94400024414062,
+    "confidence": 0.22024613618850708,
+    "speakerTag": 1
+  },
+  {
+    "word": "slightly",
+    "startSec": 79.00800323486328,
+    "endSec": 79.36000061035156,
+    "confidence": 0.12399768084287643,
+    "speakerTag": 1
+  },
+  {
+    "word": "parted",
+    "startSec": 79.5199966430664,
+    "endSec": 79.80799865722656,
+    "confidence": 0.92474764585495,
+    "speakerTag": 1
+  },
+  {
+    "word": "before",
+    "startSec": 79.87200164794922,
+    "endSec": 80.12799835205078,
+    "confidence": 0.9684334993362427,
+    "speakerTag": 1
+  },
+  {
+    "word": "us",
+    "startSec": 80.2239990234375,
+    "endSec": 80.28800201416016,
+    "confidence": 0.9563359618186951,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 80.73600006103516,
+    "endSec": 80.76799774169922,
+    "confidence": 0.743438184261322,
+    "speakerTag": 1
+  },
+  {
+    "word": "know",
+    "startSec": 80.83200073242188,
+    "endSec": 80.89600372314453,
+    "confidence": 0.8877031207084656,
+    "speakerTag": 1
+  },
+  {
+    "word": "gaze",
+    "startSec": 81.02400207519531,
+    "endSec": 81.18399810791016,
+    "confidence": 0.23827260732650757,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 81.24800109863281,
+    "endSec": 81.31199645996094,
+    "confidence": 0.25159040093421936,
+    "speakerTag": 1
+  },
+  {
+    "word": "fall",
+    "startSec": 81.3759994506836,
+    "endSec": 81.50399780273438,
+    "confidence": 0.9157909750938416,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 81.56800079345703,
+    "endSec": 81.5999984741211,
+    "confidence": 0.8728976249694824,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 81.66400146484375,
+    "endSec": 81.69599914550781,
+    "confidence": 0.9425331354141235,
+    "speakerTag": 1
+  },
+  {
+    "word": "visual",
+    "startSec": 81.76000213623047,
+    "endSec": 82.0479965209961,
+    "confidence": 0.7804741263389587,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 82.14399719238281,
+    "endSec": 82.20800018310547,
+    "confidence": 0.361800879240036,
+    "speakerTag": 1
+  },
+  {
+    "word": "whole",
+    "startSec": 82.33599853515625,
+    "endSec": 82.46399688720703,
+    "confidence": 0.7883089184761047,
+    "speakerTag": 1
+  },
+  {
+    "word": "trees",
+    "startSec": 82.59200286865234,
+    "endSec": 82.87999725341797,
+    "confidence": 0.8341160416603088,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 82.97599792480469,
+    "endSec": 83.19999694824219,
+    "confidence": 0.9617505073547363,
+    "speakerTag": 1
+  },
+  {
+    "word": "one",
+    "startSec": 83.39199829101562,
+    "endSec": 83.5199966430664,
+    "confidence": 0.9576948285102844,
+    "speakerTag": 1
+  },
+  {
+    "word": "looks",
+    "startSec": 83.61599731445312,
+    "endSec": 83.80799865722656,
+    "confidence": 0.9378292560577393,
+    "speakerTag": 1
+  },
+  {
+    "word": "pretty",
+    "startSec": 83.87200164794922,
+    "endSec": 84.06400299072266,
+    "confidence": 0.9772054553031921,
+    "speakerTag": 1
+  },
+  {
+    "word": "start",
+    "startSec": 84.16000366210938,
+    "endSec": 84.447998046875,
+    "confidence": 0.3531161844730377,
+    "speakerTag": 1
+  },
+  {
+    "word": "dombey's",
+    "startSec": 85.98400115966797,
+    "endSec": 86.30400085449219,
+    "confidence": 0.1451689749956131,
+    "speakerTag": 1
+  },
+  {
+    "word": "couldn't",
+    "startSec": 86.36799621582031,
+    "endSec": 86.55999755859375,
+    "confidence": 0.7906457781791687,
+    "speakerTag": 1
+  },
+  {
+    "word": "climb",
+    "startSec": 86.65599822998047,
+    "endSec": 86.8479995727539,
+    "confidence": 0.924422562122345,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 86.91200256347656,
+    "endSec": 87.04000091552734,
+    "confidence": 0.8155795931816101,
+    "speakerTag": 1
+  },
+  {
+    "word": "so",
+    "startSec": 87.19999694824219,
+    "endSec": 87.2959976196289,
+    "confidence": 0.18036127090454102,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 87.39199829101562,
+    "endSec": 87.42400360107422,
+    "confidence": 0.8371275067329407,
+    "speakerTag": 1
+  },
+  {
+    "word": "seemed",
+    "startSec": 87.45600128173828,
+    "endSec": 87.68000030517578,
+    "confidence": 0.2175929844379425,
+    "speakerTag": 1
+  },
+  {
+    "word": "like",
+    "startSec": 87.71199798583984,
+    "endSec": 87.83999633789062,
+    "confidence": 0.9765521287918091,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 87.90399932861328,
+    "endSec": 87.93599700927734,
+    "confidence": 0.9424622654914856,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 88.03199768066406,
+    "endSec": 88.16000366210938,
+    "confidence": 0.866549015045166,
+    "speakerTag": 1
+  },
+  {
+    "word": "restaurant",
+    "startSec": 88.19200134277344,
+    "endSec": 88.57599639892578,
+    "confidence": 0.47014904022216797,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 89.27999877929688,
+    "endSec": 89.40799713134766,
+    "confidence": 0.9196174740791321,
+    "speakerTag": 1
+  },
+  {
+    "word": "one",
+    "startSec": 89.50399780273438,
+    "endSec": 89.66400146484375,
+    "confidence": 0.9622457027435303,
+    "speakerTag": 1
+  },
+  {
+    "word": "thick",
+    "startSec": 89.88800048828125,
+    "endSec": 90.08000183105469,
+    "confidence": 0.6805631518363953,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 90.14399719238281,
+    "endSec": 90.27200317382812,
+    "confidence": 0.9072635769844055,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 90.36799621582031,
+    "endSec": 90.43199920654297,
+    "confidence": 0.9541589021682739,
+    "speakerTag": 1
+  },
+  {
+    "word": "studied",
+    "startSec": 90.46399688720703,
+    "endSec": 90.75199890136719,
+    "confidence": 0.3849979639053345,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 90.81600189208984,
+    "endSec": 90.87999725341797,
+    "confidence": 0.3713000416755676,
+    "speakerTag": 1
+  },
+  {
+    "word": "even",
+    "startSec": 90.94400024414062,
+    "endSec": 91.13600158691406,
+    "confidence": 0.9693102836608887,
+    "speakerTag": 1
+  },
+  {
+    "word": "experience",
+    "startSec": 91.68000030517578,
+    "endSec": 92.09600067138672,
+    "confidence": 0.9640728235244751,
+    "speakerTag": 1
+  },
+  {
+    "word": "climate",
+    "startSec": 92.16000366210938,
+    "endSec": 92.41600036621094,
+    "confidence": 0.5314062237739563,
+    "speakerTag": 1
+  },
+  {
+    "word": "trees",
+    "startSec": 92.4800033569336,
+    "endSec": 92.83200073242188,
+    "confidence": 0.47332674264907837,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 93.44000244140625,
+    "endSec": 93.50399780273438,
+    "confidence": 0.9616971015930176,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 93.63200378417969,
+    "endSec": 93.69599914550781,
+    "confidence": 0.8900184631347656,
+    "speakerTag": 1
+  },
+  {
+    "word": "desert",
+    "startSec": 93.91999816894531,
+    "endSec": 94.23999786376953,
+    "confidence": 0.6659848690032959,
+    "speakerTag": 1
+  },
+  {
+    "word": "island",
+    "startSec": 94.30400085449219,
+    "endSec": 94.55999755859375,
+    "confidence": 0.9556593894958496,
+    "speakerTag": 1
+  },
+  {
+    "word": "but",
+    "startSec": 94.6240005493164,
+    "endSec": 94.72000122070312,
+    "confidence": 0.9716886878013611,
+    "speakerTag": 1
+  },
+  {
+    "word": "how",
+    "startSec": 94.75199890136719,
+    "endSec": 94.81600189208984,
+    "confidence": 0.7427959442138672,
+    "speakerTag": 1
+  },
+  {
+    "word": "do",
+    "startSec": 94.91200256347656,
+    "endSec": 94.97599792480469,
+    "confidence": 0.9692100286483765,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 95.04000091552734,
+    "endSec": 95.0719985961914,
+    "confidence": 0.9811619520187378,
+    "speakerTag": 1
+  },
+  {
+    "word": "climb",
+    "startSec": 95.13600158691406,
+    "endSec": 95.3280029296875,
+    "confidence": 0.9225539565086365,
+    "speakerTag": 1
+  },
+  {
+    "word": "this",
+    "startSec": 95.42400360107422,
+    "endSec": 95.61599731445312,
+    "confidence": 0.842348039150238,
+    "speakerTag": 1
+  },
+  {
+    "word": "but",
+    "startSec": 95.71199798583984,
+    "endSec": 95.80799865722656,
+    "confidence": 0.9504150152206421,
+    "speakerTag": 1
+  },
+  {
+    "word": "because",
+    "startSec": 96.38400268554688,
+    "endSec": 96.60800170898438,
+    "confidence": 0.9521082639694214,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 96.7040023803711,
+    "endSec": 96.73600006103516,
+    "confidence": 0.971095085144043,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 96.80000305175781,
+    "endSec": 96.9280014038086,
+    "confidence": 0.9735287427902222,
+    "speakerTag": 1
+  },
+  {
+    "word": "actually",
+    "startSec": 97.18399810791016,
+    "endSec": 97.47200012207031,
+    "confidence": 0.9426708221435547,
+    "speakerTag": 1
+  },
+  {
+    "word": "grab",
+    "startSec": 97.50399780273438,
+    "endSec": 97.69599914550781,
+    "confidence": 0.5124046206474304,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 97.79199981689453,
+    "endSec": 97.88800048828125,
+    "confidence": 0.08640459179878235,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 97.9520034790039,
+    "endSec": 97.98400115966797,
+    "confidence": 0.9785812497138977,
+    "speakerTag": 1
+  },
+  {
+    "word": "tree",
+    "startSec": 98.0479965209961,
+    "endSec": 98.14399719238281,
+    "confidence": 0.9292884469032288,
+    "speakerTag": 1
+  },
+  {
+    "word": "trust",
+    "startSec": 98.30400085449219,
+    "endSec": 98.46399688720703,
+    "confidence": 0.3255592882633209,
+    "speakerTag": 1
+  },
+  {
+    "word": "impossible",
+    "startSec": 98.49600219726562,
+    "endSec": 98.87999725341797,
+    "confidence": 0.9268216490745544,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 98.91200256347656,
+    "endSec": 98.94400024414062,
+    "confidence": 0.3243221342563629,
+    "speakerTag": 1
+  },
+  {
+    "word": "campus",
+    "startSec": 99.00800323486328,
+    "endSec": 99.3280029296875,
+    "confidence": 0.18708743155002594,
+    "speakerTag": 1
+  },
+  {
+    "word": "real-looking",
+    "startSec": 99.42400360107422,
+    "endSec": 99.96800231933594,
+    "confidence": 0.11134199053049088,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 100,
+    "endSec": 100.06400299072266,
+    "confidence": 0.8802607655525208,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 100.09600067138672,
+    "endSec": 100.2239990234375,
+    "confidence": 0.7684961557388306,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 100.25599670410156,
+    "endSec": 100.28800201416016,
+    "confidence": 0.9599927663803101,
+    "speakerTag": 1
+  },
+  {
+    "word": "bare",
+    "startSec": 100.35199737548828,
+    "endSec": 100.4800033569336,
+    "confidence": 0.8463956713676453,
+    "speakerTag": 1
+  },
+  {
+    "word": "hands",
+    "startSec": 100.57599639892578,
+    "endSec": 100.7040023803711,
+    "confidence": 0.9088166952133179,
+    "speakerTag": 1
+  },
+  {
+    "word": "even",
+    "startSec": 100.80000305175781,
+    "endSec": 100.9280014038086,
+    "confidence": 0.3095230460166931,
+    "speakerTag": 1
+  },
+  {
+    "word": "when",
+    "startSec": 100.95999908447266,
+    "endSec": 101.08799743652344,
+    "confidence": 0.7632118463516235,
+    "speakerTag": 1
+  },
+  {
+    "word": "answer",
+    "startSec": 101.1520004272461,
+    "endSec": 101.40799713134766,
+    "confidence": 0.4933849573135376,
+    "speakerTag": 1
+  },
+  {
+    "word": "through",
+    "startSec": 102.20800018310547,
+    "endSec": 102.30400085449219,
+    "confidence": 0.888272762298584,
+    "speakerTag": 1
+  },
+  {
+    "word": "her",
+    "startSec": 102.4000015258789,
+    "endSec": 102.46399688720703,
+    "confidence": 0.8891593813896179,
+    "speakerTag": 1
+  },
+  {
+    "word": "back",
+    "startSec": 102.55999755859375,
+    "endSec": 102.72000122070312,
+    "confidence": 0.9527897834777832,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 102.8479995727539,
+    "endSec": 102.91200256347656,
+    "confidence": 0.10007250308990479,
+    "speakerTag": 1
+  },
+  {
+    "word": "pulled",
+    "startSec": 102.97599792480469,
+    "endSec": 103.13600158691406,
+    "confidence": 0.8919697403907776,
+    "speakerTag": 1
+  },
+  {
+    "word": "out",
+    "startSec": 103.19999694824219,
+    "endSec": 103.26399993896484,
+    "confidence": 0.4554765522480011,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 103.3280029296875,
+    "endSec": 103.3280029296875,
+    "confidence": 0.5674670934677124,
+    "speakerTag": 1
+  },
+  {
+    "word": "group",
+    "startSec": 103.39199829101562,
+    "endSec": 103.552001953125,
+    "confidence": 0.7745698690414429,
+    "speakerTag": 1
+  },
+  {
+    "word": "right",
+    "startSec": 103.68000030517578,
+    "endSec": 103.87200164794922,
+    "confidence": 0.897532045841217,
+    "speakerTag": 1
+  },
+  {
+    "word": "edge",
+    "startSec": 103.93599700927734,
+    "endSec": 104.03199768066406,
+    "confidence": 0.5291168093681335,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 104.09600067138672,
+    "endSec": 104.16000366210938,
+    "confidence": 0.9160279035568237,
+    "speakerTag": 1
+  },
+  {
+    "word": "everything",
+    "startSec": 104.19200134277344,
+    "endSec": 104.51200103759766,
+    "confidence": 0.9637713432312012,
+    "speakerTag": 1
+  },
+  {
+    "word": "about",
+    "startSec": 104.57599639892578,
+    "endSec": 104.76799774169922,
+    "confidence": 0.854188859462738,
+    "speakerTag": 1
+  },
+  {
+    "word": "using",
+    "startSec": 104.80000305175781,
+    "endSec": 104.99199676513672,
+    "confidence": 0.9529566764831543,
+    "speakerTag": 1
+  },
+  {
+    "word": "other",
+    "startSec": 105.05599975585938,
+    "endSec": 105.18399810791016,
+    "confidence": 0.9284933805465698,
+    "speakerTag": 1
+  },
+  {
+    "word": "tools",
+    "startSec": 105.27999877929688,
+    "endSec": 105.47200012207031,
+    "confidence": 0.8902797102928162,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 105.50399780273438,
+    "endSec": 105.5999984741211,
+    "confidence": 0.6531692147254944,
+    "speakerTag": 1
+  },
+  {
+    "word": "single",
+    "startSec": 105.66400146484375,
+    "endSec": 105.88800048828125,
+    "confidence": 0.2920547425746918,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 105.9520034790039,
+    "endSec": 106.08000183105469,
+    "confidence": 0.3783484995365143,
+    "speakerTag": 1
+  },
+  {
+    "word": "thought",
+    "startSec": 106.11199951171875,
+    "endSec": 106.23999786376953,
+    "confidence": 0.6246322393417358,
+    "speakerTag": 1
+  },
+  {
+    "word": "about",
+    "startSec": 106.30400085449219,
+    "endSec": 106.46399688720703,
+    "confidence": 0.8566712737083435,
+    "speakerTag": 1
+  },
+  {
+    "word": "something",
+    "startSec": 106.49600219726562,
+    "endSec": 106.97599792480469,
+    "confidence": 0.9794620871543884,
+    "speakerTag": 1
+  },
+  {
+    "word": "somehow",
+    "startSec": 107.45600128173828,
+    "endSec": 107.74400329589844,
+    "confidence": 0.8115388751029968,
+    "speakerTag": 1
+  },
+  {
+    "word": "doing",
+    "startSec": 107.90399932861328,
+    "endSec": 108.09600067138672,
+    "confidence": 0.8974292874336243,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 108.19200134277344,
+    "endSec": 108.25599670410156,
+    "confidence": 0.9769829511642456,
+    "speakerTag": 1
+  },
+  {
+    "word": "only",
+    "startSec": 108.35199737548828,
+    "endSec": 108.54399871826172,
+    "confidence": 0.9617815613746643,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 108.60800170898438,
+    "endSec": 108.7040023803711,
+    "confidence": 0.9630094766616821,
+    "speakerTag": 1
+  },
+  {
+    "word": "my",
+    "startSec": 108.76799774169922,
+    "endSec": 108.83200073242188,
+    "confidence": 0.9666408896446228,
+    "speakerTag": 1
+  },
+  {
+    "word": "body",
+    "startSec": 108.89600372314453,
+    "endSec": 109.12000274658203,
+    "confidence": 0.9763620495796204,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 109.21600341796875,
+    "endSec": 109.21600341796875,
+    "confidence": 0.9439293742179871,
+    "speakerTag": 1
+  },
+  {
+    "word": "slow",
+    "startSec": 109.31199645996094,
+    "endSec": 109.47200012207031,
+    "confidence": 0.8972704410552979,
+    "speakerTag": 1
+  },
+  {
+    "word": "brain",
+    "startSec": 109.63200378417969,
+    "endSec": 109.88800048828125,
+    "confidence": 0.8953182101249695,
+    "speakerTag": 1
+  },
+  {
+    "word": "would",
+    "startSec": 109.98400115966797,
+    "endSec": 110.11199951171875,
+    "confidence": 0.9615353941917419,
+    "speakerTag": 1
+  },
+  {
+    "word": "make",
+    "startSec": 110.27200317382812,
+    "endSec": 110.43199920654297,
+    "confidence": 0.9675235152244568,
+    "speakerTag": 1
+  },
+  {
+    "word": "one's",
+    "startSec": 110.55999755859375,
+    "endSec": 110.78399658203125,
+    "confidence": 0.8683763146400452,
+    "speakerTag": 1
+  },
+  {
+    "word": "body",
+    "startSec": 110.97599792480469,
+    "endSec": 111.13600158691406,
+    "confidence": 0.9576495885848999,
+    "speakerTag": 1
+  },
+  {
+    "word": "suffer",
+    "startSec": 111.23200225830078,
+    "endSec": 111.45600128173828,
+    "confidence": 0.44897642731666565,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 115.19999694824219,
+    "endSec": 115.2959976196289,
+    "confidence": 0.48121145367622375,
+    "speakerTag": 1
+  },
+  {
+    "word": "tied",
+    "startSec": 115.36000061035156,
+    "endSec": 115.5199966430664,
+    "confidence": 0.8694402575492859,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 115.58399963378906,
+    "endSec": 115.58399963378906,
+    "confidence": 0.8582913279533386,
+    "speakerTag": 1
+  },
+  {
+    "word": "stone",
+    "startSec": 115.64800262451172,
+    "endSec": 115.90399932861328,
+    "confidence": 0.9265936613082886,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 115.96800231933594,
+    "endSec": 116.03199768066406,
+    "confidence": 0.9595149159431458,
+    "speakerTag": 1
+  },
+  {
+    "word": "one",
+    "startSec": 116.16000366210938,
+    "endSec": 116.38400268554688,
+    "confidence": 0.9471487998962402,
+    "speakerTag": 1
+  },
+  {
+    "word": "end",
+    "startSec": 116.73600006103516,
+    "endSec": 116.86399841308594,
+    "confidence": 0.9636377096176147,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 116.9280014038086,
+    "endSec": 116.99199676513672,
+    "confidence": 0.9848086833953857,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 117.05599975585938,
+    "endSec": 117.08799743652344,
+    "confidence": 0.9867883920669556,
+    "speakerTag": 1
+  },
+  {
+    "word": "rope",
+    "startSec": 117.1520004272461,
+    "endSec": 117.34400177001953,
+    "confidence": 0.9242344498634338,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 117.44000244140625,
+    "endSec": 117.56800079345703,
+    "confidence": 0.9756460785865784,
+    "speakerTag": 1
+  },
+  {
+    "word": "three",
+    "startSec": 117.72799682617188,
+    "endSec": 117.85600280761719,
+    "confidence": 0.9037520289421082,
+    "speakerTag": 1
+  },
+  {
+    "word": "wheat",
+    "startSec": 117.9520034790039,
+    "endSec": 118.11199951171875,
+    "confidence": 0.7433326244354248,
+    "speakerTag": 1
+  },
+  {
+    "word": "over",
+    "startSec": 118.1760025024414,
+    "endSec": 118.30400085449219,
+    "confidence": 0.9416484236717224,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 118.4000015258789,
+    "endSec": 118.4000015258789,
+    "confidence": 0.9449822902679443,
+    "speakerTag": 1
+  },
+  {
+    "word": "branch",
+    "startSec": 118.49600219726562,
+    "endSec": 118.75199890136719,
+    "confidence": 0.9307618141174316,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 118.8479995727539,
+    "endSec": 118.87999725341797,
+    "confidence": 0.9643759727478027,
+    "speakerTag": 1
+  },
+  {
+    "word": "rope",
+    "startSec": 118.94400024414062,
+    "endSec": 119.10399627685547,
+    "confidence": 0.7555213570594788,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 119.16799926757812,
+    "endSec": 119.26399993896484,
+    "confidence": 0.9041500091552734,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 119.3280029296875,
+    "endSec": 119.36000061035156,
+    "confidence": 0.9716995358467102,
+    "speakerTag": 1
+  },
+  {
+    "word": "stone",
+    "startSec": 119.42400360107422,
+    "endSec": 119.64800262451172,
+    "confidence": 0.9505378603935242,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 119.74400329589844,
+    "endSec": 119.80799865722656,
+    "confidence": 0.7961504459381104,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 119.87200164794922,
+    "endSec": 119.93599700927734,
+    "confidence": 0.9577934741973877,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 120.06400299072266,
+    "endSec": 120.2239990234375,
+    "confidence": 0.9743502140045166,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 120.76799774169922,
+    "endSec": 120.86399841308594,
+    "confidence": 0.06226179376244545,
+    "speakerTag": 1
+  },
+  {
+    "word": "his",
+    "startSec": 120.89600372314453,
+    "endSec": 120.99199676513672,
+    "confidence": 0.748571515083313,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 121.12000274658203,
+    "endSec": 121.21600341796875,
+    "confidence": 0.15120090544223785,
+    "speakerTag": 1
+  },
+  {
+    "word": "rotated",
+    "startSec": 121.31199645996094,
+    "endSec": 121.72799682617188,
+    "confidence": 0.8078737258911133,
+    "speakerTag": 1
+  },
+  {
+    "word": "around",
+    "startSec": 121.8239974975586,
+    "endSec": 121.98400115966797,
+    "confidence": 0.972887396812439,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 122.0479965209961,
+    "endSec": 122.08000183105469,
+    "confidence": 0.9808835387229919,
+    "speakerTag": 1
+  },
+  {
+    "word": "branch",
+    "startSec": 122.14399719238281,
+    "endSec": 122.4000015258789,
+    "confidence": 0.824134111404419,
+    "speakerTag": 1
+  },
+  {
+    "word": "three",
+    "startSec": 122.46399688720703,
+    "endSec": 122.59200286865234,
+    "confidence": 0.6555174589157104,
+    "speakerTag": 1
+  },
+  {
+    "word": "or",
+    "startSec": 122.72000122070312,
+    "endSec": 122.75199890136719,
+    "confidence": 0.9425575137138367,
+    "speakerTag": 1
+  },
+  {
+    "word": "four",
+    "startSec": 122.8479995727539,
+    "endSec": 122.94400024414062,
+    "confidence": 0.9903786182403564,
+    "speakerTag": 1
+  },
+  {
+    "word": "times",
+    "startSec": 123.04000091552734,
+    "endSec": 123.23200225830078,
+    "confidence": 0.9739479422569275,
+    "speakerTag": 1
+  },
+  {
+    "word": "tightly",
+    "startSec": 123.2959976196289,
+    "endSec": 123.58399963378906,
+    "confidence": 0.7634081840515137,
+    "speakerTag": 1
+  },
+  {
+    "word": "winding",
+    "startSec": 123.68000030517578,
+    "endSec": 123.96800231933594,
+    "confidence": 0.6433834433555603,
+    "speakerTag": 1
+  },
+  {
+    "word": "itself",
+    "startSec": 124.03199768066406,
+    "endSec": 124.31999969482422,
+    "confidence": 0.8316014409065247,
+    "speakerTag": 1
+  },
+  {
+    "word": "around",
+    "startSec": 124.38400268554688,
+    "endSec": 124.73600006103516,
+    "confidence": 0.8897068500518799,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 124.80000305175781,
+    "endSec": 124.89600372314453,
+    "confidence": 0.9434894323348999,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 125.3759994506836,
+    "endSec": 125.47200012207031,
+    "confidence": 0.9690629243850708,
+    "speakerTag": 1
+  },
+  {
+    "word": "untested",
+    "startSec": 125.53600311279297,
+    "endSec": 125.91999816894531,
+    "confidence": 0.7730548977851868,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 125.98400115966797,
+    "endSec": 126.01599884033203,
+    "confidence": 0.974578320980072,
+    "speakerTag": 1
+  },
+  {
+    "word": "stability",
+    "startSec": 126.08000183105469,
+    "endSec": 126.49600219726562,
+    "confidence": 0.949591875076294,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 126.59200286865234,
+    "endSec": 126.65599822998047,
+    "confidence": 0.9870284795761108,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 126.72000122070312,
+    "endSec": 126.78399658203125,
+    "confidence": 0.9851230978965759,
+    "speakerTag": 1
+  },
+  {
+    "word": "fasten",
+    "startSec": 126.91200256347656,
+    "endSec": 127.26399993896484,
+    "confidence": 0.6183937788009644,
+    "speakerTag": 1
+  },
+  {
+    "word": "rope",
+    "startSec": 127.39199829101562,
+    "endSec": 127.552001953125,
+    "confidence": 0.45810991525650024,
+    "speakerTag": 1
+  },
+  {
+    "word": "by",
+    "startSec": 127.64800262451172,
+    "endSec": 127.74400329589844,
+    "confidence": 0.9340597987174988,
+    "speakerTag": 1
+  },
+  {
+    "word": "pulling",
+    "startSec": 127.90399932861328,
+    "endSec": 128.19200134277344,
+    "confidence": 0.8338133692741394,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 128.25599670410156,
+    "endSec": 128.32000732421875,
+    "confidence": 0.9735731482505798,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 128.41600036621094,
+    "endSec": 128.47999572753906,
+    "confidence": 0.9506959319114685,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 128.5760040283203,
+    "endSec": 128.60800170898438,
+    "confidence": 0.7051580548286438,
+    "speakerTag": 1
+  },
+  {
+    "word": "few",
+    "startSec": 128.6719970703125,
+    "endSec": 128.76800537109375,
+    "confidence": 0.9142346978187561,
+    "speakerTag": 1
+  },
+  {
+    "word": "times",
+    "startSec": 128.89599609375,
+    "endSec": 129.15199279785156,
+    "confidence": 0.976421058177948,
+    "speakerTag": 1
+  },
+  {
+    "word": "then",
+    "startSec": 129.1840057373047,
+    "endSec": 129.27999877929688,
+    "confidence": 0.9338701367378235,
+    "speakerTag": 1
+  },
+  {
+    "word": "grabbed",
+    "startSec": 129.343994140625,
+    "endSec": 129.60000610351562,
+    "confidence": 0.9551093578338623,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 129.66400146484375,
+    "endSec": 129.72799682617188,
+    "confidence": 0.9699563980102539,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 129.82400512695312,
+    "endSec": 129.9199981689453,
+    "confidence": 0.9607883095741272,
+    "speakerTag": 1
+  },
+  {
+    "word": "started",
+    "startSec": 129.95199584960938,
+    "endSec": 130.27200317382812,
+    "confidence": 0.9324636459350586,
+    "speakerTag": 1
+  },
+  {
+    "word": "climbing",
+    "startSec": 130.33599853515625,
+    "endSec": 130.72000122070312,
+    "confidence": 0.7889614105224609,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 134.20799255371094,
+    "endSec": 134.3040008544922,
+    "confidence": 0.0831538513302803,
+    "speakerTag": 1
+  },
+  {
+    "word": "after",
+    "startSec": 134.46400451660156,
+    "endSec": 134.62399291992188,
+    "confidence": 0.7273958325386047,
+    "speakerTag": 1
+  },
+  {
+    "word": "climbing",
+    "startSec": 134.656005859375,
+    "endSec": 134.94400024414062,
+    "confidence": 0.8295339941978455,
+    "speakerTag": 1
+  },
+  {
+    "word": "more",
+    "startSec": 135.00799560546875,
+    "endSec": 135.10400390625,
+    "confidence": 0.9351060390472412,
+    "speakerTag": 1
+  },
+  {
+    "word": "than",
+    "startSec": 135.1999969482422,
+    "endSec": 135.3280029296875,
+    "confidence": 0.9846228957176208,
+    "speakerTag": 1
+  },
+  {
+    "word": "six",
+    "startSec": 135.4239959716797,
+    "endSec": 135.67999267578125,
+    "confidence": 0.8619983196258545,
+    "speakerTag": 1
+  },
+  {
+    "word": "meters",
+    "startSec": 135.80799865722656,
+    "endSec": 136.0959930419922,
+    "confidence": 0.9609718918800354,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 136.19200134277344,
+    "endSec": 136.25599670410156,
+    "confidence": 0.9749699234962463,
+    "speakerTag": 1
+  },
+  {
+    "word": "but",
+    "startSec": 137.0240020751953,
+    "endSec": 137.1840057373047,
+    "confidence": 0.9348856210708618,
+    "speakerTag": 1
+  },
+  {
+    "word": "an",
+    "startSec": 137.31199645996094,
+    "endSec": 137.37600708007812,
+    "confidence": 0.6674517393112183,
+    "speakerTag": 1
+  },
+  {
+    "word": "instant",
+    "startSec": 137.44000244140625,
+    "endSec": 137.75999450683594,
+    "confidence": 0.9415412545204163,
+    "speakerTag": 1
+  },
+  {
+    "word": "London",
+    "startSec": 137.79200744628906,
+    "endSec": 138.04800415039062,
+    "confidence": 0.8562286496162415,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 138.1439971923828,
+    "endSec": 138.17599487304688,
+    "confidence": 0.857011079788208,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 138.24000549316406,
+    "endSec": 138.24000549316406,
+    "confidence": 0.12831315398216248,
+    "speakerTag": 1
+  },
+  {
+    "word": "branch",
+    "startSec": 138.3040008544922,
+    "endSec": 138.5279998779297,
+    "confidence": 0.9385186433792114,
+    "speakerTag": 1
+  },
+  {
+    "word": "making",
+    "startSec": 138.62399291992188,
+    "endSec": 138.84800720214844,
+    "confidence": 0.9424546360969543,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 138.91200256347656,
+    "endSec": 138.9759979248047,
+    "confidence": 0.9761549234390259,
+    "speakerTag": 1
+  },
+  {
+    "word": "branch",
+    "startSec": 139.0399932861328,
+    "endSec": 139.26400756835938,
+    "confidence": 0.8373875021934509,
+    "speakerTag": 1
+  },
+  {
+    "word": "away",
+    "startSec": 139.45599365234375,
+    "endSec": 139.58399963378906,
+    "confidence": 0.2713437080383301,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 139.71200561523438,
+    "endSec": 139.71200561523438,
+    "confidence": 0.9462339282035828,
+    "speakerTag": 1
+  },
+  {
+    "word": "few",
+    "startSec": 139.80799865722656,
+    "endSec": 139.93600463867188,
+    "confidence": 0.9812458753585815,
+    "speakerTag": 1
+  },
+  {
+    "word": "times",
+    "startSec": 140.06399536132812,
+    "endSec": 140.25599670410156,
+    "confidence": 0.9821462035179138,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 140.32000732421875,
+    "endSec": 140.447998046875,
+    "confidence": 0.9405146241188049,
+    "speakerTag": 1
+  },
+  {
+    "word": "her",
+    "startSec": 140.47999572753906,
+    "endSec": 140.54400634765625,
+    "confidence": 0.8479451537132263,
+    "speakerTag": 1
+  },
+  {
+    "word": "feet",
+    "startSec": 140.63999938964844,
+    "endSec": 140.86399841308594,
+    "confidence": 0.9671827554702759,
+    "speakerTag": 1
+  },
+  {
+    "word": "his",
+    "startSec": 141.343994140625,
+    "endSec": 141.4720001220703,
+    "confidence": 0.5239177346229553,
+    "speakerTag": 1
+  },
+  {
+    "word": "study",
+    "startSec": 141.50399780273438,
+    "endSec": 141.82400512695312,
+    "confidence": 0.9039430022239685,
+    "speakerTag": 1
+  },
+  {
+    "word": "come",
+    "startSec": 141.88800048828125,
+    "endSec": 142.04800415039062,
+    "confidence": 0.7957709431648254,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 142.11199951171875,
+    "endSec": 142.20799255371094,
+    "confidence": 0.9644759893417358,
+    "speakerTag": 1
+  },
+  {
+    "word": "now",
+    "startSec": 142.3040008544922,
+    "endSec": 142.39999389648438,
+    "confidence": 0.9269667863845825,
+    "speakerTag": 1
+  },
+  {
+    "word": "come",
+    "startSec": 143.0399932861328,
+    "endSec": 143.1999969482422,
+    "confidence": 0.8763860464096069,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 143.26400756835938,
+    "endSec": 143.3280029296875,
+    "confidence": 0.9707148671150208,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 143.48800659179688,
+    "endSec": 143.67999267578125,
+    "confidence": 0.9420575499534607,
+    "speakerTag": 1
+  },
+  {
+    "word": "there",
+    "startSec": 144,
+    "endSec": 144.2239990234375,
+    "confidence": 0.979794979095459,
+    "speakerTag": 1
+  },
+  {
+    "word": "didn't",
+    "startSec": 144.3520050048828,
+    "endSec": 144.5760040283203,
+    "confidence": 0.9638969302177429,
+    "speakerTag": 1
+  },
+  {
+    "word": "seem",
+    "startSec": 144.6719970703125,
+    "endSec": 144.8000030517578,
+    "confidence": 0.9895703792572021,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 144.86399841308594,
+    "endSec": 144.92799377441406,
+    "confidence": 0.9727621078491211,
+    "speakerTag": 1
+  },
+  {
+    "word": "be",
+    "startSec": 144.99200439453125,
+    "endSec": 145.0240020751953,
+    "confidence": 0.9703353047370911,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 145.05599975585938,
+    "endSec": 145.1199951171875,
+    "confidence": 0.39147114753723145,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 145.15199279785156,
+    "endSec": 145.15199279785156,
+    "confidence": 0.0368880033493042,
+    "speakerTag": 1
+  },
+  {
+    "word": "problem",
+    "startSec": 145.1840057373047,
+    "endSec": 145.4080047607422,
+    "confidence": 0.8574126362800598,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 145.44000244140625,
+    "endSec": 145.4720001220703,
+    "confidence": 0.6690884828567505,
+    "speakerTag": 1
+  },
+  {
+    "word": "grabbed",
+    "startSec": 145.5679931640625,
+    "endSec": 145.82400512695312,
+    "confidence": 0.8835137486457825,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 145.8560028076172,
+    "endSec": 145.88800048828125,
+    "confidence": 0.9826405644416809,
+    "speakerTag": 1
+  },
+  {
+    "word": "rope",
+    "startSec": 145.95199584960938,
+    "endSec": 146.1439971923828,
+    "confidence": 0.6688312292098999,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 146.20799255371094,
+    "endSec": 146.27200317382812,
+    "confidence": 0.9840487241744995,
+    "speakerTag": 1
+  },
+  {
+    "word": "started",
+    "startSec": 146.3040008544922,
+    "endSec": 146.55999755859375,
+    "confidence": 0.9737132787704468,
+    "speakerTag": 1
+  },
+  {
+    "word": "climbing",
+    "startSec": 146.5919952392578,
+    "endSec": 146.91200256347656,
+    "confidence": 0.967158317565918,
+    "speakerTag": 1
+  },
+  {
+    "word": "as",
+    "startSec": 146.9759979248047,
+    "endSec": 147.07200622558594,
+    "confidence": 0.9380459189414978,
+    "speakerTag": 1
+  },
+  {
+    "word": "well",
+    "startSec": 147.13600158691406,
+    "endSec": 147.26400756835938,
+    "confidence": 0.8989928364753723,
+    "speakerTag": 1
+  },
+  {
+    "word": "things",
+    "startSec": 147.61599731445312,
+    "endSec": 147.80799865722656,
+    "confidence": 0.6814924478530884,
+    "speakerTag": 1
+  },
+  {
+    "word": "wouldn't",
+    "startSec": 147.8719940185547,
+    "endSec": 148.16000366210938,
+    "confidence": 0.6959022879600525,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 148.51199340820312,
+    "endSec": 148.63999938964844,
+    "confidence": 0.9231736063957214,
+    "speakerTag": 1
+  },
+  {
+    "word": "wouldn't",
+    "startSec": 148.6719970703125,
+    "endSec": 148.92799377441406,
+    "confidence": 0.9414990544319153,
+    "speakerTag": 1
+  },
+  {
+    "word": "have",
+    "startSec": 148.99200439453125,
+    "endSec": 149.1199951171875,
+    "confidence": 0.9814417958259583,
+    "speakerTag": 1
+  },
+  {
+    "word": "been",
+    "startSec": 149.1840057373047,
+    "endSec": 149.27999877929688,
+    "confidence": 0.9733178615570068,
+    "speakerTag": 1
+  },
+  {
+    "word": "possible",
+    "startSec": 149.343994140625,
+    "endSec": 149.66400146484375,
+    "confidence": 0.9845489263534546,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 149.6959991455078,
+    "endSec": 149.75999450683594,
+    "confidence": 0.9443324208259583,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 149.79200744628906,
+    "endSec": 149.82400512695312,
+    "confidence": 0.9838792085647583,
+    "speakerTag": 1
+  },
+  {
+    "word": "past",
+    "startSec": 149.88800048828125,
+    "endSec": 150.11199951171875,
+    "confidence": 0.8264338970184326,
+    "speakerTag": 1
+  },
+  {
+    "word": "we",
+    "startSec": 150.1439971923828,
+    "endSec": 150.20799255371094,
+    "confidence": 0.9424764513969421,
+    "speakerTag": 1
+  },
+  {
+    "word": "came",
+    "startSec": 150.27200317382812,
+    "endSec": 150.3679962158203,
+    "confidence": 0.9231736063957214,
+    "speakerTag": 1
+  },
+  {
+    "word": "here",
+    "startSec": 150.39999389648438,
+    "endSec": 150.46400451660156,
+    "confidence": 0.23712725937366486,
+    "speakerTag": 1
+  },
+  {
+    "word": "for",
+    "startSec": 150.5279998779297,
+    "endSec": 150.62399291992188,
+    "confidence": 0.7350180149078369,
+    "speakerTag": 1
+  },
+  {
+    "word": "this",
+    "startSec": 150.656005859375,
+    "endSec": 150.78399658203125,
+    "confidence": 0.9123860001564026,
+    "speakerTag": 1
+  },
+  {
+    "word": "service",
+    "startSec": 150.8159942626953,
+    "endSec": 151.07200622558594,
+    "confidence": 0.15678848326206207,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 151.16799926757812,
+    "endSec": 151.23199462890625,
+    "confidence": 0.51016765832901,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 151.26400756835938,
+    "endSec": 151.36000061035156,
+    "confidence": 0.8982263803482056,
+    "speakerTag": 1
+  },
+  {
+    "word": "surprised",
+    "startSec": 151.39199829101562,
+    "endSec": 151.80799865722656,
+    "confidence": 0.8762722015380859,
+    "speakerTag": 1
+  },
+  {
+    "word": "when",
+    "startSec": 151.83999633789062,
+    "endSec": 151.93600463867188,
+    "confidence": 0.9827180504798889,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 152,
+    "endSec": 152,
+    "confidence": 0.9746408462524414,
+    "speakerTag": 1
+  },
+  {
+    "word": "managed",
+    "startSec": 152.1280059814453,
+    "endSec": 152.3520050048828,
+    "confidence": 0.9598090052604675,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 152.38400268554688,
+    "endSec": 152.41600036621094,
+    "confidence": 0.978333055973053,
+    "speakerTag": 1
+  },
+  {
+    "word": "climb",
+    "startSec": 152.47999572753906,
+    "endSec": 152.6719970703125,
+    "confidence": 0.9460279941558838,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 152.73599243164062,
+    "endSec": 152.8000030517578,
+    "confidence": 0.8443046808242798,
+    "speakerTag": 1
+  },
+  {
+    "word": "so",
+    "startSec": 152.89599609375,
+    "endSec": 152.9600067138672,
+    "confidence": 0.9442164897918701,
+    "speakerTag": 1
+  },
+  {
+    "word": "well",
+    "startSec": 153.05599975585938,
+    "endSec": 153.21600341796875,
+    "confidence": 0.7576049566268921,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 153.60000610351562,
+    "endSec": 153.66400146484375,
+    "confidence": 0.8148676753044128,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 153.72799682617188,
+    "endSec": 153.72799682617188,
+    "confidence": 0.1315031200647354,
+    "speakerTag": 1
+  },
+  {
+    "word": "got",
+    "startSec": 153.82400512695312,
+    "endSec": 153.95199584960938,
+    "confidence": 0.8824446797370911,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 154.01600646972656,
+    "endSec": 154.0800018310547,
+    "confidence": 0.8501108288764954,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 154.11199951171875,
+    "endSec": 154.17599487304688,
+    "confidence": 0.8792205452919006,
+    "speakerTag": 1
+  },
+  {
+    "word": "decide",
+    "startSec": 154.20799255371094,
+    "endSec": 154.4320068359375,
+    "confidence": 0.6909693479537964,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 154.46400451660156,
+    "endSec": 154.5279998779297,
+    "confidence": 0.9654477834701538,
+    "speakerTag": 1
+  },
+  {
+    "word": "look",
+    "startSec": 154.62399291992188,
+    "endSec": 154.72000122070312,
+    "confidence": 0.9571865797042847,
+    "speakerTag": 1
+  },
+  {
+    "word": "down",
+    "startSec": 154.78399658203125,
+    "endSec": 154.94400024414062,
+    "confidence": 0.9612857103347778,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 155.00799560546875,
+    "endSec": 155.00799560546875,
+    "confidence": 0.9578274488449097,
+    "speakerTag": 1
+  },
+  {
+    "word": "bit",
+    "startSec": 155.07200622558594,
+    "endSec": 155.1999969482422,
+    "confidence": 0.9650576114654541,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 155.26400756835938,
+    "endSec": 155.26400756835938,
+    "confidence": 0.9516309499740601,
+    "speakerTag": 1
+  },
+  {
+    "word": "feel",
+    "startSec": 155.39199829101562,
+    "endSec": 155.48800659179688,
+    "confidence": 0.9208840131759644,
+    "speakerTag": 1
+  },
+  {
+    "word": "dizzy",
+    "startSec": 155.552001953125,
+    "endSec": 155.74400329589844,
+    "confidence": 0.5479950308799744,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 155.83999633789062,
+    "endSec": 155.9040069580078,
+    "confidence": 0.937653660774231,
+    "speakerTag": 1
+  },
+  {
+    "word": "course",
+    "startSec": 155.93600463867188,
+    "endSec": 156.06399536132812,
+    "confidence": 0.9742451310157776,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 156.1280059814453,
+    "endSec": 156.16000366210938,
+    "confidence": 0.974774956703186,
+    "speakerTag": 1
+  },
+  {
+    "word": "branch",
+    "startSec": 156.2239990234375,
+    "endSec": 156.41600036621094,
+    "confidence": 0.9185524582862854,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 156.447998046875,
+    "endSec": 156.54400634765625,
+    "confidence": 0.9160010814666748,
+    "speakerTag": 1
+  },
+  {
+    "word": "considerably",
+    "startSec": 156.60800170898438,
+    "endSec": 157.1840057373047,
+    "confidence": 0.927201509475708,
+    "speakerTag": 1
+  },
+  {
+    "word": "six",
+    "startSec": 157.2480010986328,
+    "endSec": 157.44000244140625,
+    "confidence": 0.4532894790172577,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 157.5679931640625,
+    "endSec": 157.5679931640625,
+    "confidence": 0.0011380222858861089,
+    "speakerTag": 1
+  },
+  {
+    "word": "honestly",
+    "startSec": 158.11199951171875,
+    "endSec": 158.39999389648438,
+    "confidence": 0.8326388001441956,
+    "speakerTag": 1
+  },
+  {
+    "word": "thought",
+    "startSec": 158.49600219726562,
+    "endSec": 158.656005859375,
+    "confidence": 0.981696367263794,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 158.72000122070312,
+    "endSec": 158.8159942626953,
+    "confidence": 0.980277955532074,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 158.8800048828125,
+    "endSec": 158.8800048828125,
+    "confidence": 0.9689810872077942,
+    "speakerTag": 1
+  },
+  {
+    "word": "could",
+    "startSec": 159.00799560546875,
+    "endSec": 159.10400390625,
+    "confidence": 0.9786394834518433,
+    "speakerTag": 1
+  },
+  {
+    "word": "lie",
+    "startSec": 159.23199462890625,
+    "endSec": 159.29600524902344,
+    "confidence": 0.915069043636322,
+    "speakerTag": 1
+  },
+  {
+    "word": "down",
+    "startSec": 159.45599365234375,
+    "endSec": 159.58399963378906,
+    "confidence": 0.9638566374778748,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 159.67999267578125,
+    "endSec": 159.74400329589844,
+    "confidence": 0.9812597632408142,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 159.83999633789062,
+    "endSec": 159.8719940185547,
+    "confidence": 0.955830454826355,
+    "speakerTag": 1
+  },
+  {
+    "word": "without",
+    "startSec": 159.93600463867188,
+    "endSec": 160.16000366210938,
+    "confidence": 0.8418996930122375,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 160.2239990234375,
+    "endSec": 160.2239990234375,
+    "confidence": 0.873920738697052,
+    "speakerTag": 1
+  },
+  {
+    "word": "problem",
+    "startSec": 160.28799438476562,
+    "endSec": 160.5760040283203,
+    "confidence": 0.962830662727356,
+    "speakerTag": 1
+  },
+  {
+    "word": "however",
+    "startSec": 160.60800170898438,
+    "endSec": 160.86399841308594,
+    "confidence": 0.876776933670044,
+    "speakerTag": 1
+  },
+  {
+    "word": "rigorous",
+    "startSec": 160.9600067138672,
+    "endSec": 161.343994140625,
+    "confidence": 0.5392635464668274,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 161.4080047607422,
+    "endSec": 161.4720001220703,
+    "confidence": 0.8482533693313599,
+    "speakerTag": 1
+  },
+  {
+    "word": "our",
+    "startSec": 161.53599548339844,
+    "endSec": 161.60000610351562,
+    "confidence": 0.821703314781189,
+    "speakerTag": 1
+  },
+  {
+    "word": "study",
+    "startSec": 161.6320037841797,
+    "endSec": 161.9199981689453,
+    "confidence": 0.9213274121284485,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 161.95199584960938,
+    "endSec": 162.01600646972656,
+    "confidence": 0.6626802682876587,
+    "speakerTag": 1
+  },
+  {
+    "word": "was",
+    "startSec": 162.04800415039062,
+    "endSec": 162.20799255371094,
+    "confidence": 0.907529354095459,
+    "speakerTag": 1
+  },
+  {
+    "word": "urgent",
+    "startSec": 162.27200317382812,
+    "endSec": 162.49600219726562,
+    "confidence": 0.2501702606678009,
+    "speakerTag": 1
+  },
+  {
+    "word": "stream",
+    "startSec": 162.5279998779297,
+    "endSec": 162.7519989013672,
+    "confidence": 0.6903272867202759,
+    "speakerTag": 1
+  },
+  {
+    "word": "wouldn't",
+    "startSec": 163.1999969482422,
+    "endSec": 163.48800659179688,
+    "confidence": 0.9442018270492554,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 163.552001953125,
+    "endSec": 163.552001953125,
+    "confidence": 0.942021906375885,
+    "speakerTag": 1
+  },
+  {
+    "word": "still",
+    "startSec": 163.67999267578125,
+    "endSec": 163.93600463867188,
+    "confidence": 0.9069757461547852,
+    "speakerTag": 1
+  },
+  {
+    "word": "end",
+    "startSec": 164.06399536132812,
+    "endSec": 164.19200134277344,
+    "confidence": 0.7491112351417542,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 164.25599670410156,
+    "endSec": 164.28799438476562,
+    "confidence": 0.9877026677131653,
+    "speakerTag": 1
+  },
+  {
+    "word": "breaking",
+    "startSec": 164.3520050048828,
+    "endSec": 164.60800170898438,
+    "confidence": 0.9365533590316772,
+    "speakerTag": 1
+  },
+  {
+    "word": "many",
+    "startSec": 164.6719970703125,
+    "endSec": 164.83200073242188,
+    "confidence": 0.7752350568771362,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 164.86399841308594,
+    "endSec": 164.92799377441406,
+    "confidence": 0.14444394409656525,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 164.99200439453125,
+    "endSec": 164.99200439453125,
+    "confidence": 0.4376071095466614,
+    "speakerTag": 1
+  },
+  {
+    "word": "fell",
+    "startSec": 165.08799743652344,
+    "endSec": 165.21600341796875,
+    "confidence": 0.49197888374328613,
+    "speakerTag": 1
+  },
+  {
+    "word": "asleep",
+    "startSec": 165.27999877929688,
+    "endSec": 165.53599548339844,
+    "confidence": 0.9737957715988159,
+    "speakerTag": 1
+  },
+  {
+    "word": "here",
+    "startSec": 165.6959991455078,
+    "endSec": 165.82400512695312,
+    "confidence": 0.7381637096405029,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 166.3040008544922,
+    "endSec": 166.3679962158203,
+    "confidence": 0.9794400334358215,
+    "speakerTag": 1
+  },
+  {
+    "word": "look",
+    "startSec": 166.4320068359375,
+    "endSec": 166.5279998779297,
+    "confidence": 0.9525425434112549,
+    "speakerTag": 1
+  },
+  {
+    "word": "down",
+    "startSec": 166.5919952392578,
+    "endSec": 166.7519989013672,
+    "confidence": 0.9043183326721191,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 166.78399658203125,
+    "endSec": 166.84800720214844,
+    "confidence": 0.0005593954701907933,
+    "speakerTag": 1
+  },
+  {
+    "word": "short",
+    "startSec": 166.8800048828125,
+    "endSec": 167.07200622558594,
+    "confidence": 0.6878675222396851,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 167.13600158691406,
+    "endSec": 167.13600158691406,
+    "confidence": 0.4269295036792755,
+    "speakerTag": 1
+  },
+  {
+    "word": "mystery",
+    "startSec": 167.23199462890625,
+    "endSec": 167.552001953125,
+    "confidence": 0.5372562408447266,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 167.6479949951172,
+    "endSec": 167.6479949951172,
+    "confidence": 0.924370527267456,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 167.74400329589844,
+    "endSec": 167.83999633789062,
+    "confidence": 0.9183117747306824,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 167.8719940185547,
+    "endSec": 167.93600463867188,
+    "confidence": 0.9432997107505798,
+    "speakerTag": 1
+  },
+  {
+    "word": "hold",
+    "startSec": 168.0959930419922,
+    "endSec": 168.32000732421875,
+    "confidence": 0.8635077476501465,
+    "speakerTag": 1
+  },
+  {
+    "word": "on",
+    "startSec": 168.3520050048828,
+    "endSec": 168.38400268554688,
+    "confidence": 0.9757585525512695,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 168.447998046875,
+    "endSec": 168.51199340820312,
+    "confidence": 0.9727105498313904,
+    "speakerTag": 1
+  },
+  {
+    "word": "the",
+    "startSec": 168.5760040283203,
+    "endSec": 168.60800170898438,
+    "confidence": 0.9837523698806763,
+    "speakerTag": 1
+  },
+  {
+    "word": "rope",
+    "startSec": 168.6719970703125,
+    "endSec": 168.8000030517578,
+    "confidence": 0.7472587823867798,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 168.86399841308594,
+    "endSec": 168.86399841308594,
+    "confidence": 0.9511400461196899,
+    "speakerTag": 1
+  },
+  {
+    "word": "can",
+    "startSec": 168.92799377441406,
+    "endSec": 169.0240020751953,
+    "confidence": 0.9721760749816895,
+    "speakerTag": 1
+  },
+  {
+    "word": "pull",
+    "startSec": 169.1199951171875,
+    "endSec": 169.27999877929688,
+    "confidence": 0.9445067048072815,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 169.31199645996094,
+    "endSec": 169.37600708007812,
+    "confidence": 0.14606821537017822,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 169.44000244140625,
+    "endSec": 169.50399780273438,
+    "confidence": 0.9784492254257202,
+    "speakerTag": 1
+  },
+  {
+    "word": "okay",
+    "startSec": 169.6320037841797,
+    "endSec": 169.79200744628906,
+    "confidence": 0.8577645421028137,
+    "speakerTag": 1
+  },
+  {
+    "word": "he's",
+    "startSec": 169.95199584960938,
+    "endSec": 170.0800018310547,
+    "confidence": 0.12302619218826294,
+    "speakerTag": 1
+  },
+  {
+    "word": "not",
+    "startSec": 170.11199951171875,
+    "endSec": 170.3040008544922,
+    "confidence": 0.9037268757820129,
+    "speakerTag": 1
+  },
+  {
+    "word": "in",
+    "startSec": 170.8159942626953,
+    "endSec": 170.84800720214844,
+    "confidence": 0.9639509916305542,
+    "speakerTag": 1
+  },
+  {
+    "word": "good",
+    "startSec": 170.94400024414062,
+    "endSec": 171.07200622558594,
+    "confidence": 0.9226700663566589,
+    "speakerTag": 1
+  },
+  {
+    "word": "calamity",
+    "startSec": 171.13600158691406,
+    "endSec": 171.58399963378906,
+    "confidence": 0.30972424149513245,
+    "speakerTag": 1
+  },
+  {
+    "word": "like",
+    "startSec": 171.67999267578125,
+    "endSec": 171.7760009765625,
+    "confidence": 0.9484488368034363,
+    "speakerTag": 1
+  },
+  {
+    "word": "they",
+    "startSec": 171.83999633789062,
+    "endSec": 171.9040069580078,
+    "confidence": 0.94214928150177,
+    "speakerTag": 1
+  },
+  {
+    "word": "didn't",
+    "startSec": 171.93600463867188,
+    "endSec": 172.1280059814453,
+    "confidence": 0.16305013000965118,
+    "speakerTag": 1
+  },
+  {
+    "word": "seem",
+    "startSec": 172.19200134277344,
+    "endSec": 172.32000732421875,
+    "confidence": 0.21037077903747559,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 172.38400268554688,
+    "endSec": 172.447998046875,
+    "confidence": 0.9844620227813721,
+    "speakerTag": 1
+  },
+  {
+    "word": "want",
+    "startSec": 172.54400634765625,
+    "endSec": 172.6719970703125,
+    "confidence": 0.9589608907699585,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 172.70399475097656,
+    "endSec": 172.76800537109375,
+    "confidence": 0.9851373434066772,
+    "speakerTag": 1
+  },
+  {
+    "word": "try",
+    "startSec": 172.83200073242188,
+    "endSec": 172.92799377441406,
+    "confidence": 0.896664559841156,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 172.99200439453125,
+    "endSec": 173.05599975585938,
+    "confidence": 0.9835996627807617,
+    "speakerTag": 1
+  },
+  {
+    "word": "put",
+    "startSec": 173.1199951171875,
+    "endSec": 173.2480010986328,
+    "confidence": 0.95319002866745,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 173.343994140625,
+    "endSec": 173.4080047607422,
+    "confidence": 0.11080832034349442,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 173.50399780273438,
+    "endSec": 173.6320037841797,
+    "confidence": 0.39353910088539124,
+    "speakerTag": 1
+  },
+  {
+    "word": "while",
+    "startSec": 173.75999450683594,
+    "endSec": 173.9199981689453,
+    "confidence": 0.38066381216049194,
+    "speakerTag": 1
+  },
+  {
+    "word": "they're",
+    "startSec": 173.98399353027344,
+    "endSec": 174.0800018310547,
+    "confidence": 0.5642099380493164,
+    "speakerTag": 1
+  },
+  {
+    "word": "so",
+    "startSec": 174.1439971923828,
+    "endSec": 174.27200317382812,
+    "confidence": 0.755805492401123,
+    "speakerTag": 1
+  },
+  {
+    "word": "you",
+    "startSec": 174.39999389648438,
+    "endSec": 174.46400451660156,
+    "confidence": 0.7621644735336304,
+    "speakerTag": 1
+  },
+  {
+    "word": "are",
+    "startSec": 174.49600219726562,
+    "endSec": 174.5279998779297,
+    "confidence": 0.06339419633150101,
+    "speakerTag": 1
+  },
+  {
+    "word": "so",
+    "startSec": 174.5919952392578,
+    "endSec": 174.68800354003906,
+    "confidence": 0.740999162197113,
+    "speakerTag": 1
+  },
+  {
+    "word": "strongly",
+    "startSec": 174.7519989013672,
+    "endSec": 175.07200622558594,
+    "confidence": 0.8568029999732971,
+    "speakerTag": 1
+  },
+  {
+    "word": "than",
+    "startSec": 175.13600158691406,
+    "endSec": 175.23199462890625,
+    "confidence": 0.767612636089325,
+    "speakerTag": 1
+  },
+  {
+    "word": "Larry's",
+    "startSec": 177.21600341796875,
+    "endSec": 177.53599548339844,
+    "confidence": 0.144221693277359,
+    "speakerTag": 1
+  },
+  {
+    "word": "looked",
+    "startSec": 177.66400146484375,
+    "endSec": 177.8560028076172,
+    "confidence": 0.9543082118034363,
+    "speakerTag": 1
+  },
+  {
+    "word": "at",
+    "startSec": 177.95199584960938,
+    "endSec": 178.01600646972656,
+    "confidence": 0.982181966304779,
+    "speakerTag": 1
+  },
+  {
+    "word": "it",
+    "startSec": 178.11199951171875,
+    "endSec": 178.17599487304688,
+    "confidence": 0.9635802507400513,
+    "speakerTag": 1
+  },
+  {
+    "word": "Helen",
+    "startSec": 178.656005859375,
+    "endSec": 178.94400024414062,
+    "confidence": 0.4402046203613281,
+    "speakerTag": 1
+  },
+  {
+    "word": "who",
+    "startSec": 179.0399932861328,
+    "endSec": 179.10400390625,
+    "confidence": 0.9619182348251343,
+    "speakerTag": 1
+  },
+  {
+    "word": "had",
+    "startSec": 179.26400756835938,
+    "endSec": 179.4239959716797,
+    "confidence": 0.9829878807067871,
+    "speakerTag": 1
+  },
+  {
+    "word": "just",
+    "startSec": 179.48800659179688,
+    "endSec": 179.6479949951172,
+    "confidence": 0.9807519912719727,
+    "speakerTag": 1
+  },
+  {
+    "word": "lifted",
+    "startSec": 179.71200561523438,
+    "endSec": 179.96800231933594,
+    "confidence": 0.8452227115631104,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 180.0959930419922,
+    "endSec": 180.2239990234375,
+    "confidence": 0.3288191854953766,
+    "speakerTag": 1
+  },
+  {
+    "word": "without",
+    "startSec": 180.28799438476562,
+    "endSec": 180.47999572753906,
+    "confidence": 0.35991302132606506,
+    "speakerTag": 1
+  },
+  {
+    "word": "exciting",
+    "startSec": 180.54400634765625,
+    "endSec": 180.83200073242188,
+    "confidence": 0.6804085969924927,
+    "speakerTag": 1
+  },
+  {
+    "word": "my",
+    "startSec": 180.89599609375,
+    "endSec": 180.92799377441406,
+    "confidence": 0.9371711611747742,
+    "speakerTag": 1
+  },
+  {
+    "word": "strange",
+    "startSec": 180.99200439453125,
+    "endSec": 181.27999877929688,
+    "confidence": 0.6153652667999268,
+    "speakerTag": 1
+  },
+  {
+    "word": "talking",
+    "startSec": 181.31199645996094,
+    "endSec": 181.5679931640625,
+    "confidence": 0.426904559135437,
+    "speakerTag": 1
+  },
+  {
+    "word": "to",
+    "startSec": 181.6320037841797,
+    "endSec": 181.66400146484375,
+    "confidence": 0.8646492958068848,
+    "speakerTag": 1
+  },
+  {
+    "word": "her",
+    "startSec": 181.6959991455078,
+    "endSec": 181.75999450683594,
+    "confidence": 0.40640291571617126,
+    "speakerTag": 1
+  },
+  {
+    "word": "with",
+    "startSec": 181.82400512695312,
+    "endSec": 181.95199584960938,
+    "confidence": 0.6676350831985474,
+    "speakerTag": 1
+  },
+  {
+    "word": "I",
+    "startSec": 182.01600646972656,
+    "endSec": 182.01600646972656,
+    "confidence": 0.007695458363741636,
+    "speakerTag": 1
+  },
+  {
+    "word": "mentioned",
+    "startSec": 182.11199951171875,
+    "endSec": 182.39999389648438,
+    "confidence": 0.9195746183395386,
+    "speakerTag": 1
+  },
+  {
+    "word": "at",
+    "startSec": 182.4320068359375,
+    "endSec": 182.49600219726562,
+    "confidence": 0.7088860869407654,
+    "speakerTag": 1
+  },
+  {
+    "word": "that",
+    "startSec": 182.5279998779297,
+    "endSec": 182.656005859375,
+    "confidence": 0.7328087687492371,
+    "speakerTag": 1
+  },
+  {
+    "word": "point",
+    "startSec": 182.68800354003906,
+    "endSec": 182.91200256347656,
+    "confidence": 0.983200192451477,
+    "speakerTag": 1
+  },
+  {
+    "word": "had",
+    "startSec": 183.3280029296875,
+    "endSec": 183.52000427246094,
+    "confidence": 0.15582168102264404,
+    "speakerTag": 1
+  },
+  {
+    "word": "even",
+    "startSec": 183.61599731445312,
+    "endSec": 183.80799865722656,
+    "confidence": 0.9591766595840454,
+    "speakerTag": 1
+  },
+  {
+    "word": "if",
+    "startSec": 183.9040069580078,
+    "endSec": 183.96800231933594,
+    "confidence": 0.9759461879730225,
+    "speakerTag": 1
+  },
+  {
+    "word": "a",
+    "startSec": 184.06399536132812,
+    "endSec": 184.06399536132812,
+    "confidence": 0.546254575252533,
+    "speakerTag": 1
+  },
+  {
+    "word": "whole",
+    "startSec": 184.25599670410156,
+    "endSec": 184.47999572753906,
+    "confidence": 0.8744564056396484,
+    "speakerTag": 1
+  },
+  {
+    "word": "hold",
+    "startSec": 184.76800537109375,
+    "endSec": 184.92799377441406,
+    "confidence": 0.5570755004882812,
+    "speakerTag": 1
+  },
+  {
+    "word": "of",
+    "startSec": 184.9600067138672,
+    "endSec": 185.0240020751953,
+    "confidence": 0.9096207618713379,
+    "speakerTag": 1
+  },
+  {
+    "word": "them",
+    "startSec": 185.05599975585938,
+    "endSec": 185.1840057373047,
+    "confidence": 0.9634634852409363,
+    "speakerTag": 1
+  },
+  {
+    "word": "became",
+    "startSec": 185.2480010986328,
+    "endSec": 185.44000244140625,
+    "confidence": 0.9509786367416382,
+    "speakerTag": 1
+  },
+  {
+    "word": "they",
+    "startSec": 185.53599548339844,
+    "endSec": 185.60000610351562,
+    "confidence": 0.9252839684486389,
+    "speakerTag": 1
+  },
+  {
+    "word": "would",
+    "startSec": 185.6320037841797,
+    "endSec": 185.72799682617188,
+    "confidence": 0.9417105913162231,
+    "speakerTag": 1
+  },
+  {
+    "word": "be",
+    "startSec": 185.79200744628906,
+    "endSec": 185.88800048828125,
+    "confidence": 0.955934464931488,
+    "speakerTag": 1
+  },
+  {
+    "word": "noticed",
+    "startSec": 185.98399353027344,
+    "endSec": 186.3040008544922,
+    "confidence": 0.4507637917995453,
+    "speakerTag": 1
+  },
+  {
+    "word": "but",
+    "startSec": 186.33599853515625,
+    "endSec": 186.46400451660156,
+    "confidence": 0.9241775274276733,
+    "speakerTag": 1
+  },
+  {
+    "word": "look",
+    "startSec": 186.55999755859375,
+    "endSec": 186.72000122070312,
+    "confidence": 0.9170109629631042,
+    "speakerTag": 1
+  },
+  {
+    "word": "up",
+    "startSec": 187.00799560546875,
+    "endSec": 187.13600158691406,
+    "confidence": 0.884706437587738,
+    "speakerTag": 1
+  },
+  {
+    "word": "at",
+    "startSec": 187.23199462890625,
+    "endSec": 187.36000061035156,
+    "confidence": 0.8592815399169922,
+    "speakerTag": 1
+  },
+  {
+    "word": "us",
+    "startSec": 187.4239959716797,
+    "endSec": 187.52000427246094,
+    "confidence": 0.9003477096557617,
+    "speakerTag": 1
+  },
+  {
+    "word": "brandy",
+    "startSec": 187.67999267578125,
+    "endSec": 188.06399536132812,
+    "confidence": 0.20000946521759033,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 188.63999938964844,
+    "endSec": 188.70399475097656,
+    "confidence": 0.9353135228157043,
+    "speakerTag": 1
+  },
+  {
+    "word": "quickly",
+    "startSec": 188.89599609375,
+    "endSec": 189.1199951171875,
+    "confidence": 0.29124870896339417,
+    "speakerTag": 1
+  },
+  {
+    "word": "moved",
+    "startSec": 189.21600341796875,
+    "endSec": 189.44000244140625,
+    "confidence": 0.9073927998542786,
+    "speakerTag": 1
+  },
+  {
+    "word": "and",
+    "startSec": 189.5679931640625,
+    "endSec": 189.6959991455078,
+    "confidence": 0.9591227173805237,
+    "speakerTag": 1
+  },
+  {
+    "word": "leaped",
+    "startSec": 189.75999450683594,
+    "endSec": 190.01600646972656,
+    "confidence": 0.7986383438110352,
+    "speakerTag": 1
+  }
+]
